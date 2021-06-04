@@ -2,7 +2,6 @@
 import argparse
 import requests
 import json
-import dill
 from dataclasses import dataclass
 from collections import defaultdict
 from os import path
@@ -102,6 +101,7 @@ def main():
         print("Force redownloading")
         version_list = process_version_manifest()
     else:
+        import dill
         # check if there is already a dill file
         if path.exists(dill_file):
             # load from file
