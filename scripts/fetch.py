@@ -18,10 +18,11 @@ def parse_args():
     """ Parses arguments
         
         returns: 
-            { output_directory } object
+            { output_directory, force } object
     """
     parser = argparse.ArgumentParser(description='Fetch Minecraft Server Versions and Links')
     parser.add_argument('-o', '--output_directory', type=str, required=True, help='Output directory all data files')
+    parser.add_argument('-f', '--force', action='store_true', help='Force redownload of the versions')
     return parser.parse_args()
 
 @dataclass
@@ -97,18 +98,22 @@ def main():
 
     version_list = None
 
-    # check if there is already a dill file
-    if path.exists(dill_file):
-        # load from file
-        print(f"Dill file {dill_file} exists, using that")
-        with open(dill_file, "rb") as f:
-            version_list = dill.load(f)
-    else:
-        print(f"Dill file {dill_file} does not exist, querying")
+    if args.force:
+        print("Force redownloading")
         version_list = process_version_manifest()
-        # write to file
-        with open(dill_file, "wb") as f:
-            f.write(dill.dumps(version_list))
+    else:
+        # check if there is already a dill file
+        if path.exists(dill_file):
+            # load from file
+            print(f"Dill file {dill_file} exists, using that")
+            with open(dill_file, "rb") as f:
+                version_list = dill.load(f)
+        else:
+            print(f"Dill file {dill_file} does not exist, querying")
+            version_list = process_version_manifest()
+            # write to file
+            with open(dill_file, "wb") as f:
+                f.write(dill.dumps(version_list))
 
     markdown = generate_markdown(version_list, markdown_template)
     with open(markdown_file, "w") as f:
