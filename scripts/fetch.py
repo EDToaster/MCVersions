@@ -2,7 +2,8 @@
 import argparse
 import requests
 import json
-from dataclasses import dataclass
+from typing import List
+from dataclasses import dataclass, field
 from collections import defaultdict
 from os import path
 from jinja2 import Environment, FileSystemLoader, select_autoescape
@@ -41,6 +42,15 @@ class Version:
     server: Download
     server_mappings: Download
 
+@dataclass
+class VersionManifest:
+    """ Class for holding the Version Manifest 
+        version_string: a string of release/snapshot that can
+                        deliniate between two version manifests
+    """
+    version_string: str
+    versions: List[Version]
+
 def process_version(url):
     """ Fetches a specific version from the url and filters the information
 
@@ -74,14 +84,17 @@ def process_version(url):
     print(v)
     return v
 
-def process_version_manifest():
+def process_version_manifest() -> VersionManifest:
     """ Fetches the version manifest and parses it
     """
     vm = requests.get(VERSION_MANIFEST_JSON).content
     vm_json = json.loads(vm)
     url_list = [v["url"]for v in vm_json["versions"]]
+
+    version_string = f"{vm_json['latest']['release']}/{vm_json['latest']['snapshot']}"
+    version_list = [process_version(url) for url in url_list]
     
-    return [process_version(url) for url in url_list]
+    return VersionManifest(version_string, version_list)
 
 def generate_markdown(version_list, template_file) -> str:
     template = env.get_template(template_file)
@@ -95,11 +108,11 @@ def main():
     markdown_file = path.join(output_dir, "README.md")
     markdown_template = "template.md.jinja"
 
-    version_list = None
+    version_manifest = None
 
     if args.force:
         print("Force redownloading")
-        version_list = process_version_manifest()
+        version_manifest = process_version_manifest()
     else:
         import dill
         # check if there is already a dill file
@@ -107,17 +120,20 @@ def main():
             # load from file
             print(f"Dill file {dill_file} exists, using that")
             with open(dill_file, "rb") as f:
-                version_list = dill.load(f)
+                version_manifest = dill.load(f)
         else:
             print(f"Dill file {dill_file} does not exist, querying")
-            version_list = process_version_manifest()
+            version_manifest = process_version_manifest()
             # write to file
             with open(dill_file, "wb") as f:
-                f.write(dill.dumps(version_list))
+                f.write(dill.dumps(version_manifest))
 
-    markdown = generate_markdown(version_list, markdown_template)
+    markdown = generate_markdown(version_manifest.versions, markdown_template)
     with open(markdown_file, "w") as f:
         f.write(markdown)
+
+    # print out last line for the commit message
+    print(version_manifest.version_string)
 
 
 
