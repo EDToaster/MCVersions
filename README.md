@@ -6,6 +6,7 @@ Here are all of the available Minecraft server links, as well as the server mapp
 
 | Version | Release Type | Server<br>SHA1 Hash | Server Mappings<br>SHA1 Hash |
 |---|---|---|---|
+| 1.17-rc2 | snapshot |  [Link](https://launcher.mojang.com/v1/objects/1b6e0511e1e419fdcf5a81e53e36b5558032ee79/server.jar)<br>1b6e0511e1e419fdcf5a81e53e36b5558032ee79  |  [Link](https://launcher.mojang.com/v1/objects/4a643e9c4b7b607da9c93f3f8a81d87a08b9ac34/server.txt)<br>4a643e9c4b7b607da9c93f3f8a81d87a08b9ac34  |
 | 1.17-rc1 | snapshot |  [Link](https://launcher.mojang.com/v1/objects/4de310c8c4f4a8ab4574246c1d63e3de3af1444d/server.jar)<br>4de310c8c4f4a8ab4574246c1d63e3de3af1444d  |  [Link](https://launcher.mojang.com/v1/objects/98a1398dc4144f92e10dd6967a231763741952e7/server.txt)<br>98a1398dc4144f92e10dd6967a231763741952e7  |
 | 1.17-pre5 | snapshot |  [Link](https://launcher.mojang.com/v1/objects/31bb40019e8d6e64299abafd743f4d3e1a1a68b2/server.jar)<br>31bb40019e8d6e64299abafd743f4d3e1a1a68b2  |  [Link](https://launcher.mojang.com/v1/objects/4fd01412588c91fbc94fb36eb9b57275de0f6be9/server.txt)<br>4fd01412588c91fbc94fb36eb9b57275de0f6be9  |
 | 1.17-pre4 | snapshot |  [Link](https://launcher.mojang.com/v1/objects/528f491660bc5dc94c0d7911345a97438e5c1d86/server.jar)<br>528f491660bc5dc94c0d7911345a97438e5c1d86  |  [Link](https://launcher.mojang.com/v1/objects/0bdafb07d9b092dec693b3a7181504ed4bc4f5c4/server.txt)<br>0bdafb07d9b092dec693b3a7181504ed4bc4f5c4  |
