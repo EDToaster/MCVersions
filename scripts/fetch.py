@@ -96,9 +96,9 @@ def process_version_manifest() -> VersionManifest:
     
     return VersionManifest(version_string, version_list)
 
-def generate_markdown(version_list, template_file) -> str:
+def generate_markdown(version_list, version_string, template_file) -> str:
     template = env.get_template(template_file)
-    return template.render(version_list=version_list)
+    return template.render(version_list=version_list, version_string=version_string)
 
 def main():
     args = parse_args()
@@ -128,7 +128,7 @@ def main():
             with open(dill_file, "wb") as f:
                 f.write(dill.dumps(version_manifest))
 
-    markdown = generate_markdown(version_manifest.versions, markdown_template)
+    markdown = generate_markdown(version_manifest.versions, version_manifest.version_string, markdown_template)
     with open(markdown_file, "w") as f:
         f.write(markdown)
 
