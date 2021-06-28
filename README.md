@@ -1,4 +1,4 @@
-# Minecraft Server Links
+# Minecraft Server Links (1.17/1.17.1-pre1)
 
 [![AutoUpdater](https://github.com/EDToaster/MCVersions/actions/workflows/main.yml/badge.svg)](https://github.com/EDToaster/MCVersions/actions/workflows/main.yml)
 
