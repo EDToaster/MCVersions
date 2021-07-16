@@ -2,6 +2,8 @@
 
 [![AutoUpdater](https://github.com/EDToaster/MCVersions/actions/workflows/main.yml/badge.svg)](https://github.com/EDToaster/MCVersions/actions/workflows/main.yml)
 
+Experimental 1.18 snapshot ([website](https://www.minecraft.net/en-us/article/new-world-generation-java-available-testing)) and ([client jar](https://launcher.mojang.com/v1/objects/231bba2a21e18b8c60976e1f6110c053b7b93226/1_18_experimental-snapshot-1.zip))
+
 Here are all of the available Minecraft server links, as well as the server mappings, hosted by Mojang. Some of the older builds (such as beta servers) are not available anymore from official sources, but can be found from the Minecraft Wiki.
 
 | Version | Release Type | Server<br>SHA1 Hash | Server Mappings<br>SHA1 Hash |
