@@ -1,4 +1,4 @@
-# Minecraft Server Links (1.17.1/21w37a)
+# Minecraft Server Links (1.17.1/21w38a)
 
 [![AutoUpdater](https://github.com/EDToaster/MCVersions/actions/workflows/main.yml/badge.svg)](https://github.com/EDToaster/MCVersions/actions/workflows/main.yml)
 
@@ -16,6 +16,7 @@ Here are all of the available Minecraft server links, as well as the server mapp
 
 | Version | Release Type | Server<br>SHA1 Hash | Server Mappings<br>SHA1 Hash |
 |---|---|---|---|
+| 21w38a | snapshot |  [Link](https://launcher.mojang.com/v1/objects/1283dff678ee5efb8e52d2fc77ec9d840317c6ca/server.jar)<br>1283dff678ee5efb8e52d2fc77ec9d840317c6ca  |  [Link](https://launcher.mojang.com/v1/objects/eb442d7286b2c4372cd2c6dabf369947e02dd4d2/server.txt)<br>eb442d7286b2c4372cd2c6dabf369947e02dd4d2  |
 | 21w37a | snapshot |  [Link](https://launcher.mojang.com/v1/objects/de695215d83f1f6ec5a19847f6178b84cfde7a26/server.jar)<br>de695215d83f1f6ec5a19847f6178b84cfde7a26  |  [Link](https://launcher.mojang.com/v1/objects/b8bfb658eb0229d74f7d36c004d6bc71b6d2d63c/server.txt)<br>b8bfb658eb0229d74f7d36c004d6bc71b6d2d63c  |
 | 1.17.1 | release |  [Link](https://launcher.mojang.com/v1/objects/a16d67e5807f57fc4e550299cf20226194497dc2/server.jar)<br>a16d67e5807f57fc4e550299cf20226194497dc2  |  [Link](https://launcher.mojang.com/v1/objects/f6cae1c5c1255f68ba4834b16a0da6a09621fe13/server.txt)<br>f6cae1c5c1255f68ba4834b16a0da6a09621fe13  |
 | 1.17.1-rc2 | snapshot |  [Link](https://launcher.mojang.com/v1/objects/dd9ca1bdc855535cd7ce0565f02285ad4d6d1ae5/server.jar)<br>dd9ca1bdc855535cd7ce0565f02285ad4d6d1ae5  |  [Link](https://launcher.mojang.com/v1/objects/20e3df62c8698434fb626e715d899e93865b9785/server.txt)<br>20e3df62c8698434fb626e715d899e93865b9785  |
