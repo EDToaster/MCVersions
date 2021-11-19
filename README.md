@@ -1,4 +1,4 @@
-# Minecraft Server Links (1.17.1/1.18-pre4)
+# Minecraft Server Links (1.17.1/1.18-pre5)
 
 [![AutoUpdater](https://github.com/EDToaster/MCVersions/actions/workflows/main.yml/badge.svg)](https://github.com/EDToaster/MCVersions/actions/workflows/main.yml)
 
@@ -16,6 +16,7 @@ Here are all of the available Minecraft server links, as well as the server mapp
 
 | Version | Release Type | Server<br>SHA1 Hash | Server Mappings<br>SHA1 Hash |
 |---|---|---|---|
+| 1.18-pre5 | snapshot |  [Link](https://launcher.mojang.com/v1/objects/c29d03e9c6a21a3234a947e1025793c3cc40c13b/server.jar)<br>c29d03e9c6a21a3234a947e1025793c3cc40c13b  |  [Link](https://launcher.mojang.com/v1/objects/438bd2a54c066d09195c85c20cfd76818d725dde/server.txt)<br>438bd2a54c066d09195c85c20cfd76818d725dde  |
 | 1.18-pre4 | snapshot |  [Link](https://launcher.mojang.com/v1/objects/d17d3501f7f9d68793d5a505978ea5b87a208b43/server.jar)<br>d17d3501f7f9d68793d5a505978ea5b87a208b43  |  [Link](https://launcher.mojang.com/v1/objects/88b6756f389fc2378938b9b10001397d669e7ad7/server.txt)<br>88b6756f389fc2378938b9b10001397d669e7ad7  |
 | 1.18-pre3 | snapshot |  [Link](https://launcher.mojang.com/v1/objects/146d1809368fef552274122d9c380423c38068ab/server.jar)<br>146d1809368fef552274122d9c380423c38068ab  |  [Link](https://launcher.mojang.com/v1/objects/1c0712039f4637cc5febea736d5bd33a3767a271/server.txt)<br>1c0712039f4637cc5febea736d5bd33a3767a271  |
 | 1.18-pre2 | snapshot |  [Link](https://launcher.mojang.com/v1/objects/c203586f5d2c02b417f0e104b65a8e5e7625b2f8/server.jar)<br>c203586f5d2c02b417f0e104b65a8e5e7625b2f8  |  [Link](https://launcher.mojang.com/v1/objects/e1599803356325af029e806eb7db716c5047fc52/server.txt)<br>e1599803356325af029e806eb7db716c5047fc52  |
