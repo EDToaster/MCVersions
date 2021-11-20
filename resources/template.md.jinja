@@ -14,7 +14,7 @@ Experimental 1.18 snapshots: [website](https://www.minecraft.net/en-us/article/n
 
 Here are all of the available Minecraft server links, as well as the server mappings, hosted by Mojang. Some of the older builds (such as beta servers) are not available anymore from official sources, but can be found from the Minecraft Wiki.
 
-| Version | Release Type | Server<br>SHA1 Hash | Server Mappings<br>SHA1 Hash |
+| Version | Release Type | Server | Server Mappings |
 |---|---|---|---|
-{% for v in version_list %}| {{v.id_}} | {{v.type_}} | {% if v.server is not none %} [Link]({{v.server.url}})<br>{{v.server.sha1}} {% else %} Missing {% endif %} | {% if v.server_mappings is not none %} [Link]({{v.server_mappings.url}})<br>{{v.server_mappings.sha1}} {% else %} Missing {% endif %} |
+{% for v in version_list %}| {{v.id_}} | {{v.type_}} | {% if v.server is not none %} [Link]({{v.server.url}})<br><details><summary>SHA1</summary>{{v.server.sha1}}</details> {% else %} Missing {% endif %} | {% if v.server_mappings is not none %} [Link]({{v.server_mappings.url}})<br><details><summary>SHA1</summary>{{v.server_mappings.sha1}}</details> {% else %} Missing {% endif %} |
 {% endfor %}
