@@ -1,4 +1,4 @@
-# Minecraft Server Links (1.17.1/1.18-pre5)
+# Minecraft Server Links (1.17.1/1.18-pre6)
 
 [![AutoUpdater](https://github.com/EDToaster/MCVersions/actions/workflows/main.yml/badge.svg)](https://github.com/EDToaster/MCVersions/actions/workflows/main.yml)
 
@@ -16,6 +16,7 @@ Here are all of the available Minecraft server links, as well as the server mapp
 
 | Version | Release Type | Server | Server Mappings |
 |---|---|---|---|
+| 1.18-pre6 | snapshot |  [Link](https://launcher.mojang.com/v1/objects/97b1c53df11cb8b973f4b522c8f4963b7e31495e/server.jar)<br><details><summary>SHA1</summary>97b1c53df11cb8b973f4b522c8f4963b7e31495e</details>  |  [Link](https://launcher.mojang.com/v1/objects/664893998f7e6d307c7e3f307e59d7f1220c6c87/server.txt)<br><details><summary>SHA1</summary>664893998f7e6d307c7e3f307e59d7f1220c6c87</details>  |
 | 1.18-pre5 | snapshot |  [Link](https://launcher.mojang.com/v1/objects/c29d03e9c6a21a3234a947e1025793c3cc40c13b/server.jar)<br><details><summary>SHA1</summary>c29d03e9c6a21a3234a947e1025793c3cc40c13b</details>  |  [Link](https://launcher.mojang.com/v1/objects/438bd2a54c066d09195c85c20cfd76818d725dde/server.txt)<br><details><summary>SHA1</summary>438bd2a54c066d09195c85c20cfd76818d725dde</details>  |
 | 1.18-pre4 | snapshot |  [Link](https://launcher.mojang.com/v1/objects/d17d3501f7f9d68793d5a505978ea5b87a208b43/server.jar)<br><details><summary>SHA1</summary>d17d3501f7f9d68793d5a505978ea5b87a208b43</details>  |  [Link](https://launcher.mojang.com/v1/objects/88b6756f389fc2378938b9b10001397d669e7ad7/server.txt)<br><details><summary>SHA1</summary>88b6756f389fc2378938b9b10001397d669e7ad7</details>  |
 | 1.18-pre3 | snapshot |  [Link](https://launcher.mojang.com/v1/objects/146d1809368fef552274122d9c380423c38068ab/server.jar)<br><details><summary>SHA1</summary>146d1809368fef552274122d9c380423c38068ab</details>  |  [Link](https://launcher.mojang.com/v1/objects/1c0712039f4637cc5febea736d5bd33a3767a271/server.txt)<br><details><summary>SHA1</summary>1c0712039f4637cc5febea736d5bd33a3767a271</details>  |
