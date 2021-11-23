@@ -33,8 +33,10 @@ jobs:
       - uses: EndBug/add-and-commit@v7 # You can change this to use a specific version
         with:
           add: 'README.md'
-          author_name: MCVersionsBot
+          author_name: EDToaster
           author_email: elongateddanishtoaster+mcversions@gmail.com
+          committer_name: GitHub Actions
+          committer_email: actions@github.com
           branch: master
           default_author: github_actor
           message: 'Updating Minecraft Versions'
