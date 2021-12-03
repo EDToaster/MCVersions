@@ -1,4 +1,4 @@
-# Minecraft Server Links (1.18/1.18)
+# Minecraft Server Links (1.18/1.18.1-pre1)
 
 [![AutoUpdater](https://github.com/EDToaster/MCVersions/actions/workflows/main.yml/badge.svg)](https://github.com/EDToaster/MCVersions/actions/workflows/main.yml)
 
@@ -16,6 +16,7 @@ Here are all of the available Minecraft server links, as well as the server mapp
 
 | Version | Release Type | Server | Server Mappings |
 |---|---|---|---|
+| 1.18.1-pre1 | snapshot |  [Link](https://launcher.mojang.com/v1/objects/cd99e68b49c8a7db185d053518c6fb135cd04564/server.jar)<br><details><summary>SHA1</summary>cd99e68b49c8a7db185d053518c6fb135cd04564</details>  |  [Link](https://launcher.mojang.com/v1/objects/8efe9d1d2db4f1a0d868dd0d1ea30b49b67d9394/server.txt)<br><details><summary>SHA1</summary>8efe9d1d2db4f1a0d868dd0d1ea30b49b67d9394</details>  |
 | 1.18 | release |  [Link](https://launcher.mojang.com/v1/objects/3cf24a8694aca6267883b17d934efacc5e44440d/server.jar)<br><details><summary>SHA1</summary>3cf24a8694aca6267883b17d934efacc5e44440d</details>  |  [Link](https://launcher.mojang.com/v1/objects/a8fe854e35a69df7289d3f03fc0821f6363f2238/server.txt)<br><details><summary>SHA1</summary>a8fe854e35a69df7289d3f03fc0821f6363f2238</details>  |
 | 1.18-rc4 | snapshot |  [Link](https://launcher.mojang.com/v1/objects/5889357fe058d867f6e27ee3f033286c430ec91e/server.jar)<br><details><summary>SHA1</summary>5889357fe058d867f6e27ee3f033286c430ec91e</details>  |  [Link](https://launcher.mojang.com/v1/objects/a36b4033a861c6e9bd3ced78b267e6aeaa75b639/server.txt)<br><details><summary>SHA1</summary>a36b4033a861c6e9bd3ced78b267e6aeaa75b639</details>  |
 | 1.18-rc3 | snapshot |  [Link](https://launcher.mojang.com/v1/objects/9a03d2c4ec2c737ce9d17a43d3774cdc0ea21030/server.jar)<br><details><summary>SHA1</summary>9a03d2c4ec2c737ce9d17a43d3774cdc0ea21030</details>  |  [Link](https://launcher.mojang.com/v1/objects/a36b4033a861c6e9bd3ced78b267e6aeaa75b639/server.txt)<br><details><summary>SHA1</summary>a36b4033a861c6e9bd3ced78b267e6aeaa75b639</details>  |
