@@ -2,16 +2,6 @@
 
 [![AutoUpdater](https://github.com/EDToaster/MCVersions/actions/workflows/main.yml/badge.svg)](https://github.com/EDToaster/MCVersions/actions/workflows/main.yml)
 
-Experimental 1.18 snapshots: [website](https://www.minecraft.net/en-us/article/new-world-generation-java-available-testing)
-
-| Experimental Version | Link |
-| --- | --- |
-| 1.18-exp5 | [Link](https://launcher.mojang.com/v1/objects/d9cb7f6fb4e440862adfb40a385d83e3f8d154db/1_18_experimental-snapshot-5.zip) |
-| 1.18-exp4 | [Link](https://launcher.mojang.com/v1/objects/b92a360cbae2eb896a62964ad8c06c3493b6c390/1_18_experimental-snapshot-4.zip) |
-| 1.18-exp3 | [Link](https://launcher.mojang.com/v1/objects/846648ff9fe60310d584061261de43010e5c722b/1_18_experimental-snapshot-3.zip) |
-| 1.18-exp2 | [Link](https://launcher.mojang.com/v1/objects/0adfe4f321aa45248fc88ac888bed5556633e7fb/1_18_experimental-snapshot-2.zip) |
-| 1.18-exp1 | [Link](https://launcher.mojang.com/v1/objects/231bba2a21e18b8c60976e1f6110c053b7b93226/1_18_experimental-snapshot-1.zip) |
-
 Here are all of the available Minecraft server links, as well as the server mappings, hosted by Mojang. Some of the older builds (such as beta servers) are not available anymore from official sources, but can be found from the Minecraft Wiki.
 
 | Version | Release Type | Server | Server Mappings |
@@ -41,6 +31,13 @@ Here are all of the available Minecraft server links, as well as the server mapp
 | 21w39a | snapshot |  [Link](https://launcher.mojang.com/v1/objects/2b40ef4bf57b2040f7d9affb48c0131b228f954f/server.jar)<br><details><summary>SHA1</summary>2b40ef4bf57b2040f7d9affb48c0131b228f954f</details>  |  [Link](https://launcher.mojang.com/v1/objects/5f6f035a96f6d68bb79adbc0c001e0e332383181/server.txt)<br><details><summary>SHA1</summary>5f6f035a96f6d68bb79adbc0c001e0e332383181</details>  |
 | 21w38a | snapshot |  [Link](https://launcher.mojang.com/v1/objects/1283dff678ee5efb8e52d2fc77ec9d840317c6ca/server.jar)<br><details><summary>SHA1</summary>1283dff678ee5efb8e52d2fc77ec9d840317c6ca</details>  |  [Link](https://launcher.mojang.com/v1/objects/eb442d7286b2c4372cd2c6dabf369947e02dd4d2/server.txt)<br><details><summary>SHA1</summary>eb442d7286b2c4372cd2c6dabf369947e02dd4d2</details>  |
 | 21w37a | snapshot |  [Link](https://launcher.mojang.com/v1/objects/de695215d83f1f6ec5a19847f6178b84cfde7a26/server.jar)<br><details><summary>SHA1</summary>de695215d83f1f6ec5a19847f6178b84cfde7a26</details>  |  [Link](https://launcher.mojang.com/v1/objects/b8bfb658eb0229d74f7d36c004d6bc71b6d2d63c/server.txt)<br><details><summary>SHA1</summary>b8bfb658eb0229d74f7d36c004d6bc71b6d2d63c</details>  |
+| 1.18-exp7 | experimental |  [Link](https://launcher.mojang.com/v1/objects/ab4ecebb133f56dd4c4c4c3257f030a947ddea84/1_18_experimental-snapshot-7.zip)<br><details><summary>SHA1</summary>None</details>  |  Missing  |
+| 1.18-exp6 | experimental |  [Link](https://launcher.mojang.com/v1/objects/4697c84c6a347d0b8766759d5b00bc5a00b1b858/1_18_experimental-snapshot-6.zip)<br><details><summary>SHA1</summary>None</details>  |  Missing  |
+| 1.18-exp5 | experimental |  [Link](https://launcher.mojang.com/v1/objects/d9cb7f6fb4e440862adfb40a385d83e3f8d154db/1_18_experimental-snapshot-5.zip)<br><details><summary>SHA1</summary>None</details>  |  Missing  |
+| 1.18-exp4 | experimental |  [Link](https://launcher.mojang.com/v1/objects/b92a360cbae2eb896a62964ad8c06c3493b6c390/1_18_experimental-snapshot-4.zip)<br><details><summary>SHA1</summary>None</details>  |  Missing  |
+| 1.18-exp3 | experimental |  [Link](https://launcher.mojang.com/v1/objects/846648ff9fe60310d584061261de43010e5c722b/1_18_experimental-snapshot-3.zip)<br><details><summary>SHA1</summary>None</details>  |  Missing  |
+| 1.18-exp2 | experimental |  [Link](https://launcher.mojang.com/v1/objects/0adfe4f321aa45248fc88ac888bed5556633e7fb/1_18_experimental-snapshot-2.zip)<br><details><summary>SHA1</summary>None</details>  |  Missing  |
+| 1.18-exp1 | experimental |  [Link](https://launcher.mojang.com/v1/objects/231bba2a21e18b8c60976e1f6110c053b7b93226/1_18_experimental-snapshot-1.zip)<br><details><summary>SHA1</summary>None</details>  |  Missing  |
 | 1.17.1 | release |  [Link](https://launcher.mojang.com/v1/objects/a16d67e5807f57fc4e550299cf20226194497dc2/server.jar)<br><details><summary>SHA1</summary>a16d67e5807f57fc4e550299cf20226194497dc2</details>  |  [Link](https://launcher.mojang.com/v1/objects/f6cae1c5c1255f68ba4834b16a0da6a09621fe13/server.txt)<br><details><summary>SHA1</summary>f6cae1c5c1255f68ba4834b16a0da6a09621fe13</details>  |
 | 1.17.1-rc2 | snapshot |  [Link](https://launcher.mojang.com/v1/objects/dd9ca1bdc855535cd7ce0565f02285ad4d6d1ae5/server.jar)<br><details><summary>SHA1</summary>dd9ca1bdc855535cd7ce0565f02285ad4d6d1ae5</details>  |  [Link](https://launcher.mojang.com/v1/objects/20e3df62c8698434fb626e715d899e93865b9785/server.txt)<br><details><summary>SHA1</summary>20e3df62c8698434fb626e715d899e93865b9785</details>  |
 | 1.17.1-rc1 | snapshot |  [Link](https://launcher.mojang.com/v1/objects/b93cbcf6c65b92621d67b735e8610f7682f54694/server.jar)<br><details><summary>SHA1</summary>b93cbcf6c65b92621d67b735e8610f7682f54694</details>  |  [Link](https://launcher.mojang.com/v1/objects/6839be84674e31281fa4539741e7eaab7723524a/server.txt)<br><details><summary>SHA1</summary>6839be84674e31281fa4539741e7eaab7723524a</details>  |
@@ -519,8 +516,8 @@ Here are all of the available Minecraft server links, as well as the server mapp
 | 13w38b | snapshot |  [Link](https://launcher.mojang.com/v1/objects/82588f79a6a61c4c4289a9dc60b7b7b3fedaead9/server.jar)<br><details><summary>SHA1</summary>82588f79a6a61c4c4289a9dc60b7b7b3fedaead9</details>  |  Missing  |
 | 13w38a | snapshot |  [Link](https://launcher.mojang.com/v1/objects/627585cdb9386e7f05cdfb8f092e5a303d4fd5f3/server.jar)<br><details><summary>SHA1</summary>627585cdb9386e7f05cdfb8f092e5a303d4fd5f3</details>  |  Missing  |
 | 1.6.4 | release |  [Link](https://launcher.mojang.com/v1/objects/050f93c1f3fe9e2052398f7bd6aca10c63d64a87/server.jar)<br><details><summary>SHA1</summary>050f93c1f3fe9e2052398f7bd6aca10c63d64a87</details>  |  Missing  |
-| 1.6.3 | snapshot |  [Link](https://launcher.mojang.com/v1/objects/5a4c69bdf7c4a9aa9580096805d8497ba7721e05/server.jar)<br><details><summary>SHA1</summary>5a4c69bdf7c4a9aa9580096805d8497ba7721e05</details>  |  Missing  |
 | 13w37b | snapshot |  [Link](https://launcher.mojang.com/v1/objects/f6322a6791bbeabac94cbaa1cf9b779ad88b120f/server.jar)<br><details><summary>SHA1</summary>f6322a6791bbeabac94cbaa1cf9b779ad88b120f</details>  |  Missing  |
+| 1.6.3 | snapshot |  [Link](https://launcher.mojang.com/v1/objects/5a4c69bdf7c4a9aa9580096805d8497ba7721e05/server.jar)<br><details><summary>SHA1</summary>5a4c69bdf7c4a9aa9580096805d8497ba7721e05</details>  |  Missing  |
 | 13w37a | snapshot |  [Link](https://launcher.mojang.com/v1/objects/c3d3d936394b35f20b871b140f5a8e6079822e51/server.jar)<br><details><summary>SHA1</summary>c3d3d936394b35f20b871b140f5a8e6079822e51</details>  |  Missing  |
 | 13w36b | snapshot |  [Link](https://launcher.mojang.com/v1/objects/2b6cdcd2df82ca8f04c1c2c7d77faf4cd25151ea/server.jar)<br><details><summary>SHA1</summary>2b6cdcd2df82ca8f04c1c2c7d77faf4cd25151ea</details>  |  Missing  |
 | 13w36a | snapshot |  [Link](https://launcher.mojang.com/v1/objects/8453f031175bac1a92db000befd14f70c8df8fb7/server.jar)<br><details><summary>SHA1</summary>8453f031175bac1a92db000befd14f70c8df8fb7</details>  |  Missing  |
@@ -549,8 +546,8 @@ Here are all of the available Minecraft server links, as well as the server mapp
 | 1.5.1 | release |  [Link](https://launcher.mojang.com/v1/objects/d07c71ee2767dabb79fb32dad8162e1b854d5324/server.jar)<br><details><summary>SHA1</summary>d07c71ee2767dabb79fb32dad8162e1b854d5324</details>  |  Missing  |
 | 1.5 | snapshot |  [Link](https://launcher.mojang.com/v1/objects/aedad5159ef56d69c5bcf77ed141f53430af43c3/server.jar)<br><details><summary>SHA1</summary>aedad5159ef56d69c5bcf77ed141f53430af43c3</details>  |  Missing  |
 | 1.4.7 | release |  [Link](https://launcher.mojang.com/v1/objects/2f0ec8efddd2f2c674c77be9ddb370b727dec676/server.jar)<br><details><summary>SHA1</summary>2f0ec8efddd2f2c674c77be9ddb370b727dec676</details>  |  Missing  |
-| 1.4.5 | release |  [Link](https://launcher.mojang.com/v1/objects/c12fd88a8233d2c517dbc8196ba2ae855f4d36ea/server.jar)<br><details><summary>SHA1</summary>c12fd88a8233d2c517dbc8196ba2ae855f4d36ea</details>  |  Missing  |
 | 1.4.6 | release |  [Link](https://launcher.mojang.com/v1/objects/a0aeb5709af5f2c3058c1cf0dc6b110a7a61278c/server.jar)<br><details><summary>SHA1</summary>a0aeb5709af5f2c3058c1cf0dc6b110a7a61278c</details>  |  Missing  |
+| 1.4.5 | release |  [Link](https://launcher.mojang.com/v1/objects/c12fd88a8233d2c517dbc8196ba2ae855f4d36ea/server.jar)<br><details><summary>SHA1</summary>c12fd88a8233d2c517dbc8196ba2ae855f4d36ea</details>  |  Missing  |
 | 1.4.4 | release |  [Link](https://launcher.mojang.com/v1/objects/4215dcadb706508bf9d6d64209a0080b9cee9e71/server.jar)<br><details><summary>SHA1</summary>4215dcadb706508bf9d6d64209a0080b9cee9e71</details>  |  Missing  |
 | 1.4.3 | snapshot |  [Link](https://launcher.mojang.com/v1/objects/9be68adf6e80721975df12f2445fa24617328d18/server.jar)<br><details><summary>SHA1</summary>9be68adf6e80721975df12f2445fa24617328d18</details>  |  Missing  |
 | 1.4.2 | release |  [Link](https://launcher.mojang.com/v1/objects/5be700523a729bb78ef99206fb480a63dcd09825/server.jar)<br><details><summary>SHA1</summary>5be700523a729bb78ef99206fb480a63dcd09825</details>  |  Missing  |
@@ -627,3 +624,6 @@ Here are all of the available Minecraft server links, as well as the server mapp
 | rd-20090515 | old_alpha |  Missing  |  Missing  |
 | rd-132328 | old_alpha |  Missing  |  Missing  |
 | rd-132211 | old_alpha |  Missing  |  Missing  |
+
+
+Experimental 1.18 snapshots: [website](https://www.minecraft.net/en-us/article/new-world-generation-java-available-testing)
