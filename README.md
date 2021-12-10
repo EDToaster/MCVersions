@@ -1,4 +1,4 @@
-# Minecraft Server Links (1.18/1.18.1-rc3)
+# Minecraft Server Links (1.18.1/1.18.1)
 
 [![AutoUpdater](https://github.com/EDToaster/MCVersions/actions/workflows/main.yml/badge.svg)](https://github.com/EDToaster/MCVersions/actions/workflows/main.yml)
 
@@ -6,6 +6,7 @@ Here are all of the available Minecraft server links, as well as the server mapp
 
 | Version | Release Type | Server | Server Mappings |
 |---|---|---|---|
+| 1.18.1 | release |  [Link](https://launcher.mojang.com/v1/objects/125e5adf40c659fd3bce3e66e67a16bb49ecc1b9/server.jar)<br><details><summary>SHA1</summary>125e5adf40c659fd3bce3e66e67a16bb49ecc1b9</details>  |  [Link](https://launcher.mojang.com/v1/objects/9717df2acd926bd4a9a7b2ce5f981bb7e4f7f04a/server.txt)<br><details><summary>SHA1</summary>9717df2acd926bd4a9a7b2ce5f981bb7e4f7f04a</details>  |
 | 1.18.1-rc3 | snapshot |  [Link](https://launcher.mojang.com/v1/objects/29c43f3af18e66f8368a16ec89f8e54ecda71d85/server.jar)<br><details><summary>SHA1</summary>29c43f3af18e66f8368a16ec89f8e54ecda71d85</details>  |  [Link](https://launcher.mojang.com/v1/objects/456f9cdf0ac35c4cc8475e5a285d4ae9ec122138/server.txt)<br><details><summary>SHA1</summary>456f9cdf0ac35c4cc8475e5a285d4ae9ec122138</details>  |
 | 1.18.1-rc2 | snapshot |  [Link](https://launcher.mojang.com/v1/objects/653c704a89fe6437b363cff32ded037d5c0f6ec0/server.jar)<br><details><summary>SHA1</summary>653c704a89fe6437b363cff32ded037d5c0f6ec0</details>  |  [Link](https://launcher.mojang.com/v1/objects/7d7bfa82af5af763e01919942b56062267edaf38/server.txt)<br><details><summary>SHA1</summary>7d7bfa82af5af763e01919942b56062267edaf38</details>  |
 | 1.18.1-rc1 | snapshot |  [Link](https://launcher.mojang.com/v1/objects/fa98951fb1fa1ca04d8d6283e91e667d91e6410d/server.jar)<br><details><summary>SHA1</summary>fa98951fb1fa1ca04d8d6283e91e667d91e6410d</details>  |  [Link](https://launcher.mojang.com/v1/objects/7d7bfa82af5af763e01919942b56062267edaf38/server.txt)<br><details><summary>SHA1</summary>7d7bfa82af5af763e01919942b56062267edaf38</details>  |
