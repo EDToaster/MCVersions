@@ -19,20 +19,14 @@ jobs:
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v2
-      
-      - name: Create output folder
-        run: mkdir ./output
     
       # Runs a set of commands using the runners shell
       - name: Fetch the versions
-        run: python3 ./scripts/fetch.py -o ./output/ -f
-      
-      - name: Copy file from output
-        run: cp ./output/README.md ./
+        run: python3 ./scripts/fetch.py -o ./
         
       - uses: EndBug/add-and-commit@v7 # You can change this to use a specific version
         with:
-          add: 'README.md'
+          add: ['README.md', 'dedupe']
           author_name: EDToaster
           author_email: elongateddanishtoaster+mcversions@gmail.com
           committer_name: GitHub Actions

@@ -6,6 +6,7 @@ from typing import List
 from dataclasses import dataclass, field
 from collections import defaultdict
 from os import path
+from datetime import datetime
 from jinja2 import Environment, FileSystemLoader, select_autoescape
 env = Environment(
     loader=FileSystemLoader("resources"),
@@ -22,7 +23,6 @@ def parse_args():
     """
     parser = argparse.ArgumentParser(description='Fetch Minecraft Server Versions and Links')
     parser.add_argument('-o', '--output_directory', type=str, required=True, help='Output directory all data files')
-    parser.add_argument('-f', '--force', action='store_true', help='Force redownload of the versions')
     return parser.parse_args()
 
 @dataclass
@@ -51,7 +51,95 @@ class VersionManifest:
     version_string: str
     versions: List[Version]
 
-def process_version(url):
+
+EXPERIMENTAL_1_18_VERSIONS: List[Version] = [
+    Version(
+        None,
+        "1.18-exp1",
+        "experimental",
+        "2021-09-01T00:00:00+00:00",
+        Download(
+            None,
+            None,
+            "https://launcher.mojang.com/v1/objects/231bba2a21e18b8c60976e1f6110c053b7b93226/1_18_experimental-snapshot-1.zip"
+        ),
+        None
+    ),
+    Version(
+        None,
+        "1.18-exp2",
+        "experimental",
+        "2021-09-02T00:00:00+00:00",
+        Download(
+            None,
+            None,
+            "https://launcher.mojang.com/v1/objects/0adfe4f321aa45248fc88ac888bed5556633e7fb/1_18_experimental-snapshot-2.zip"
+        ),
+        None
+    ),
+    Version(
+        None,
+        "1.18-exp3",
+        "experimental",
+        "2021-09-03T00:00:00+00:00",
+        Download(
+            None,
+            None,
+            "https://launcher.mojang.com/v1/objects/846648ff9fe60310d584061261de43010e5c722b/1_18_experimental-snapshot-3.zip"
+        ),
+        None
+    ),
+    Version(
+        None,
+        "1.18-exp4",
+        "experimental",
+        "2021-09-04T00:00:00+00:00",
+        Download(
+            None,
+            None,
+            "https://launcher.mojang.com/v1/objects/b92a360cbae2eb896a62964ad8c06c3493b6c390/1_18_experimental-snapshot-4.zip"
+        ),
+        None
+    ),
+    Version(
+        None,
+        "1.18-exp5",
+        "experimental",
+        "2021-09-05T00:00:00+00:00",
+        Download(
+            None,
+            None,
+            "https://launcher.mojang.com/v1/objects/d9cb7f6fb4e440862adfb40a385d83e3f8d154db/1_18_experimental-snapshot-5.zip"
+        ),
+        None
+    ),
+    Version(
+        None,
+        "1.18-exp6",
+        "experimental",
+        "2021-09-06T00:00:00+00:00",
+        Download(
+            None,
+            None,
+            "https://launcher.mojang.com/v1/objects/4697c84c6a347d0b8766759d5b00bc5a00b1b858/1_18_experimental-snapshot-6.zip"
+        ),
+        None
+    ),
+    Version(
+        None,
+        "1.18-exp7",
+        "experimental",
+        "2021-09-08T00:00:00+00:00",
+        Download(
+            None,
+            None,
+            "https://launcher.mojang.com/v1/objects/ab4ecebb133f56dd4c4c4c3257f030a947ddea84/1_18_experimental-snapshot-7.zip"
+        ),
+        None
+    ),
+]
+
+def process_version(url) -> Version:
     """ Fetches a specific version from the url and filters the information
 
         returns: Version
@@ -84,7 +172,7 @@ def process_version(url):
     print(v)
     return v
 
-def process_version_manifest() -> VersionManifest:
+def process_version_manifest(previous_version_string) -> VersionManifest:
     """ Fetches the version manifest and parses it
     """
     vm = requests.get(VERSION_MANIFEST_JSON).content
@@ -92,53 +180,51 @@ def process_version_manifest() -> VersionManifest:
     url_list = [v["url"]for v in vm_json["versions"]]
 
     version_string = f"{vm_json['latest']['release']}/{vm_json['latest']['snapshot']}"
-    version_list = [process_version(url) for url in url_list]
+
+    if previous_version_string == version_string:
+        return None
+
+    version_list = [process_version(url) for url in url_list] + EXPERIMENTAL_1_18_VERSIONS
+    version_list = sorted(version_list, key = lambda v: datetime.fromisoformat(v.release_time))[::-1]
     
     return VersionManifest(version_string, version_list)
 
-def generate_markdown(version_list, version_string, template_file) -> str:
-    template = env.get_template(template_file)
-    return template.render(version_list=version_list, version_string=version_string)
+def generate_and_print_md(version_list, version_string, readme_file, dedupe_file) -> str:
+
+    readme_template = env.get_template("README.md.jinja")
+    dedupe_template = env.get_template("dedupe.jinja")
+
+    readme = readme_template.render(version_list=version_list, version_string=version_string)
+    dedupe = dedupe_template.render(version_string=version_string)
+
+
+    with open(readme_file, "w") as f:
+        f.write(readme)
+    with open(dedupe_file, "w") as f:
+        f.write(dedupe)
 
 def main():
     args = parse_args()
     output_dir = args.output_directory
 
-    dill_file = path.join(output_dir, "versions.dill")
-    markdown_file = path.join(output_dir, "README.md")
-    markdown_template = "template.md.jinja"
+    readme_file = path.join(output_dir, "README.md")
+    dedupe_file = path.join(output_dir, "dedupe")
 
-    version_manifest = None
+    previous_version_string = None
+    try:
+        with open(dedupe_file, "r") as f:
+            previous_version_string = f.readline()
+    except FileNotFoundError:
+        print("dedupe path not found, going to assume this is first time running this script") 
 
-    if args.force:
-        print("Force redownloading")
-        version_manifest = process_version_manifest()
-    else:
-        import dill
-        # check if there is already a dill file
-        if path.exists(dill_file):
-            # load from file
-            print(f"Dill file {dill_file} exists, using that")
-            with open(dill_file, "rb") as f:
-                version_manifest = dill.load(f)
-        else:
-            print(f"Dill file {dill_file} does not exist, querying")
-            version_manifest = process_version_manifest()
-            # write to file
-            with open(dill_file, "wb") as f:
-                f.write(dill.dumps(version_manifest))
+    version_manifest = process_version_manifest(previous_version_string)
+    if version_manifest is None:
+        print(f"Previous version {previous_version_string} is the same, not going to fetch versions")
+        return
 
-    markdown = generate_markdown(version_manifest.versions, version_manifest.version_string, markdown_template)
-    with open(markdown_file, "w") as f:
-        f.write(markdown)
+    generate_and_print_md(version_manifest.versions, version_manifest.version_string, readme_file, dedupe_file)
 
-    # print out last line for the commit message
-    print(version_manifest.version_string)
-
-
-
-
-
+    print(f"Finished writing versions {version_manifest.version_string}")
 
 if __name__ == "__main__":
     main()
