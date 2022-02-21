@@ -1,4 +1,4 @@
-# Minecraft Server Links (1.18.1/1.18.2-pre1)
+# Minecraft Server Links (1.18.1/1.18.2-pre2)
 
 [![AutoUpdater](https://github.com/EDToaster/MCVersions/actions/workflows/main.yml/badge.svg)](https://github.com/EDToaster/MCVersions/actions/workflows/main.yml)
 
@@ -6,6 +6,7 @@ Here are all of the available Minecraft server links, as well as the server mapp
 
 | Version | Release Type | Server | Server Mappings |
 |---|---|---|---|
+| 1.18.2-pre2 | snapshot |  [Link](https://launcher.mojang.com/v1/objects/888cb380db39a115cfe978c00922d24536bdd2a5/server.jar)<br><details><summary>SHA1</summary>888cb380db39a115cfe978c00922d24536bdd2a5</details>  |  [Link](https://launcher.mojang.com/v1/objects/534b35bb75418d46e8a28c83c175a5cb8193f67a/server.txt)<br><details><summary>SHA1</summary>534b35bb75418d46e8a28c83c175a5cb8193f67a</details>  |
 | 1.18.2-pre1 | snapshot |  [Link](https://launcher.mojang.com/v1/objects/c3e2734bafdb017efab854b01c66dd795722a332/server.jar)<br><details><summary>SHA1</summary>c3e2734bafdb017efab854b01c66dd795722a332</details>  |  [Link](https://launcher.mojang.com/v1/objects/ee44979b031f2e937dd4737ebcfbddd553aee52d/server.txt)<br><details><summary>SHA1</summary>ee44979b031f2e937dd4737ebcfbddd553aee52d</details>  |
 | 22w07a | snapshot |  [Link](https://launcher.mojang.com/v1/objects/8131d9e36640d40ce8464c58035f35475579e897/server.jar)<br><details><summary>SHA1</summary>8131d9e36640d40ce8464c58035f35475579e897</details>  |  [Link](https://launcher.mojang.com/v1/objects/5fb67255bafc8813b5b89ed7c2127c2167e3e614/server.txt)<br><details><summary>SHA1</summary>5fb67255bafc8813b5b89ed7c2127c2167e3e614</details>  |
 | 22w06a | snapshot |  [Link](https://launcher.mojang.com/v1/objects/60c757a63f21877f8b053904ac76d04ff3cb76ef/server.jar)<br><details><summary>SHA1</summary>60c757a63f21877f8b053904ac76d04ff3cb76ef</details>  |  [Link](https://launcher.mojang.com/v1/objects/e39e107d5387eb76fb1f68deb7a957e01be83369/server.txt)<br><details><summary>SHA1</summary>e39e107d5387eb76fb1f68deb7a957e01be83369</details>  |
