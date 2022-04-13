@@ -1,4 +1,4 @@
-# Minecraft Server Links (1.18.2/22w14a)
+# Minecraft Server Links (1.18.2/22w15a)
 
 [![AutoUpdater](https://github.com/EDToaster/MCVersions/actions/workflows/main.yml/badge.svg)](https://github.com/EDToaster/MCVersions/actions/workflows/main.yml)
 
@@ -6,6 +6,7 @@ Here are all of the available Minecraft server links, as well as the server mapp
 
 | Version | Release Type | Server | Server Mappings |
 |---|---|---|---|
+| 22w15a | snapshot |  [Link](https://launcher.mojang.com/v1/objects/2760f745a00711bcc19bf78d6056019f69318d03/server.jar)<br><details><summary>SHA1</summary>2760f745a00711bcc19bf78d6056019f69318d03</details>  |  [Link](https://launcher.mojang.com/v1/objects/496416e9ac476347b47655089b7819877977f737/server.txt)<br><details><summary>SHA1</summary>496416e9ac476347b47655089b7819877977f737</details>  |
 | 22w14a | snapshot |  [Link](https://launcher.mojang.com/v1/objects/cf4f3a6492c0a84e2e852fe0ea714080923ab6ad/server.jar)<br><details><summary>SHA1</summary>cf4f3a6492c0a84e2e852fe0ea714080923ab6ad</details>  |  [Link](https://launcher.mojang.com/v1/objects/7b9857a6a7f3d7910700528627a8912947512178/server.txt)<br><details><summary>SHA1</summary>7b9857a6a7f3d7910700528627a8912947512178</details>  |
 | 22w13oneblockatatime | snapshot |  [Link](https://launcher.mojang.com/v1/objects/5f48eea55c7fd1881d9c63835b15dfb5bbcd3a67/server.jar)<br><details><summary>SHA1</summary>5f48eea55c7fd1881d9c63835b15dfb5bbcd3a67</details>  |  [Link](https://launcher.mojang.com/v1/objects/2c55055b906935ffe1e7e7cb80d1a8b031eb9f95/server.txt)<br><details><summary>SHA1</summary>2c55055b906935ffe1e7e7cb80d1a8b031eb9f95</details>  |
 | 22w13a | snapshot |  [Link](https://launcher.mojang.com/v1/objects/7c8afca77bb9a73d31cdc70f2f68b4119d581455/server.jar)<br><details><summary>SHA1</summary>7c8afca77bb9a73d31cdc70f2f68b4119d581455</details>  |  [Link](https://launcher.mojang.com/v1/objects/5712fbabd1d65667551df47b3f22e72e58158136/server.txt)<br><details><summary>SHA1</summary>5712fbabd1d65667551df47b3f22e72e58158136</details>  |
