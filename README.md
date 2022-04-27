@@ -1,4 +1,4 @@
-# Minecraft Server Links (1.18.2/22w16b)
+# Minecraft Server Links (1.18.2/22w17a)
 
 [![AutoUpdater](https://github.com/EDToaster/MCVersions/actions/workflows/main.yml/badge.svg)](https://github.com/EDToaster/MCVersions/actions/workflows/main.yml)
 
@@ -6,6 +6,7 @@ Here are all of the available Minecraft server links, as well as the server mapp
 
 | Version | Release Type | Server | Server Mappings |
 |---|---|---|---|
+| 22w17a | snapshot |  [Link](https://launcher.mojang.com/v1/objects/9b4d5a87b48d7c3784fdfc9d6982543e8d9296df/server.jar)<br><details><summary>SHA1</summary>9b4d5a87b48d7c3784fdfc9d6982543e8d9296df</details>  |  [Link](https://launcher.mojang.com/v1/objects/40b2889924cf4b85394d97b2005c05ed79686827/server.txt)<br><details><summary>SHA1</summary>40b2889924cf4b85394d97b2005c05ed79686827</details>  |
 | 22w16b | snapshot |  [Link](https://launcher.mojang.com/v1/objects/a54810e8b1a7a043fa54a462309d680ad67da479/server.jar)<br><details><summary>SHA1</summary>a54810e8b1a7a043fa54a462309d680ad67da479</details>  |  [Link](https://launcher.mojang.com/v1/objects/54d27d0b812eab6ffc04e6d3d0236fa7920a5c87/server.txt)<br><details><summary>SHA1</summary>54d27d0b812eab6ffc04e6d3d0236fa7920a5c87</details>  |
 | 22w16a | snapshot |  [Link](https://launcher.mojang.com/v1/objects/8ac6c67599bd30009fdc2f9d0174419b0bc19f8b/server.jar)<br><details><summary>SHA1</summary>8ac6c67599bd30009fdc2f9d0174419b0bc19f8b</details>  |  [Link](https://launcher.mojang.com/v1/objects/09b27637ea134f570beaae2e61c54deb73333baf/server.txt)<br><details><summary>SHA1</summary>09b27637ea134f570beaae2e61c54deb73333baf</details>  |
 | 22w15a | snapshot |  [Link](https://launcher.mojang.com/v1/objects/2760f745a00711bcc19bf78d6056019f69318d03/server.jar)<br><details><summary>SHA1</summary>2760f745a00711bcc19bf78d6056019f69318d03</details>  |  [Link](https://launcher.mojang.com/v1/objects/496416e9ac476347b47655089b7819877977f737/server.txt)<br><details><summary>SHA1</summary>496416e9ac476347b47655089b7819877977f737</details>  |
