@@ -1,4 +1,4 @@
-# Minecraft Server Links (1.18.2/1.19-pre1)
+# Minecraft Server Links (1.18.2/1.19-pre2)
 
 [![AutoUpdater](https://github.com/EDToaster/MCVersions/actions/workflows/main.yml/badge.svg)](https://github.com/EDToaster/MCVersions/actions/workflows/main.yml)
 
@@ -6,6 +6,7 @@ Here are all of the available Minecraft server links, as well as the server mapp
 
 | Version | Release Type | Server | Server Mappings |
 |---|---|---|---|
+| 1.19-pre2 | snapshot |  [Link](https://launcher.mojang.com/v1/objects/6cc6cac49cd862ad9005816eb1ffc7dd4bd066dd/server.jar)<br><details><summary>SHA1</summary>6cc6cac49cd862ad9005816eb1ffc7dd4bd066dd</details>  |  [Link](https://launcher.mojang.com/v1/objects/820f381f8f120bcb25d0c0f1516ff9645efd8eb9/server.txt)<br><details><summary>SHA1</summary>820f381f8f120bcb25d0c0f1516ff9645efd8eb9</details>  |
 | 1.19-pre1 | snapshot |  [Link](https://launcher.mojang.com/v1/objects/1be90ec671e145e56b789de428b63ec43a2d9721/server.jar)<br><details><summary>SHA1</summary>1be90ec671e145e56b789de428b63ec43a2d9721</details>  |  [Link](https://launcher.mojang.com/v1/objects/a165b38df827030571e6e37b4a6c78ab3bef26e0/server.txt)<br><details><summary>SHA1</summary>a165b38df827030571e6e37b4a6c78ab3bef26e0</details>  |
 | 22w19a | snapshot |  [Link](https://launcher.mojang.com/v1/objects/c354ac562b44fe5857535935125942ff89616cab/server.jar)<br><details><summary>SHA1</summary>c354ac562b44fe5857535935125942ff89616cab</details>  |  [Link](https://launcher.mojang.com/v1/objects/b4c5ef273e65f0df3da75378402ef00d638ef4cc/server.txt)<br><details><summary>SHA1</summary>b4c5ef273e65f0df3da75378402ef00d638ef4cc</details>  |
 | 22w18a | snapshot |  [Link](https://launcher.mojang.com/v1/objects/d3259a8939a724c78ebbb995dfc31c1c364464e3/server.jar)<br><details><summary>SHA1</summary>d3259a8939a724c78ebbb995dfc31c1c364464e3</details>  |  [Link](https://launcher.mojang.com/v1/objects/001ab71a16b49623990eaecbb02ac43140cf7827/server.txt)<br><details><summary>SHA1</summary>001ab71a16b49623990eaecbb02ac43140cf7827</details>  |
