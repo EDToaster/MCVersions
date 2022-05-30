@@ -1,4 +1,4 @@
-# Minecraft Server Links (1.18.2/1.19-pre3)
+# Minecraft Server Links (1.18.2/1.19-pre4)
 
 [![AutoUpdater](https://github.com/EDToaster/MCVersions/actions/workflows/main.yml/badge.svg)](https://github.com/EDToaster/MCVersions/actions/workflows/main.yml)
 
@@ -6,6 +6,7 @@ Here are all of the available Minecraft server links, as well as the server mapp
 
 | Version | Release Type | Server | Server Mappings |
 |---|---|---|---|
+| 1.19-pre4 | snapshot |  [Link](https://launcher.mojang.com/v1/objects/a16331571233081eced58459a33254aa5a984a7d/server.jar)<br><details><summary>SHA1</summary>a16331571233081eced58459a33254aa5a984a7d</details>  |  [Link](https://launcher.mojang.com/v1/objects/374ebb5d3ff36b1ec4b621f367ccba93f0f445ac/server.txt)<br><details><summary>SHA1</summary>374ebb5d3ff36b1ec4b621f367ccba93f0f445ac</details>  |
 | 1.19-pre3 | snapshot |  [Link](https://launcher.mojang.com/v1/objects/0702387c3519cc23a5184893275d00c05abf056d/server.jar)<br><details><summary>SHA1</summary>0702387c3519cc23a5184893275d00c05abf056d</details>  |  [Link](https://launcher.mojang.com/v1/objects/3151a5cf8b4489876325973837302390c2352902/server.txt)<br><details><summary>SHA1</summary>3151a5cf8b4489876325973837302390c2352902</details>  |
 | 1.19-pre2 | snapshot |  [Link](https://launcher.mojang.com/v1/objects/6cc6cac49cd862ad9005816eb1ffc7dd4bd066dd/server.jar)<br><details><summary>SHA1</summary>6cc6cac49cd862ad9005816eb1ffc7dd4bd066dd</details>  |  [Link](https://launcher.mojang.com/v1/objects/820f381f8f120bcb25d0c0f1516ff9645efd8eb9/server.txt)<br><details><summary>SHA1</summary>820f381f8f120bcb25d0c0f1516ff9645efd8eb9</details>  |
 | 1.19-pre1 | snapshot |  [Link](https://launcher.mojang.com/v1/objects/1be90ec671e145e56b789de428b63ec43a2d9721/server.jar)<br><details><summary>SHA1</summary>1be90ec671e145e56b789de428b63ec43a2d9721</details>  |  [Link](https://launcher.mojang.com/v1/objects/a165b38df827030571e6e37b4a6c78ab3bef26e0/server.txt)<br><details><summary>SHA1</summary>a165b38df827030571e6e37b4a6c78ab3bef26e0</details>  |
