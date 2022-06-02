@@ -1,4 +1,4 @@
-# Minecraft Server Links (1.18.2/1.19-pre5)
+# Minecraft Server Links (1.18.2/1.19-rc1)
 
 [![AutoUpdater](https://github.com/EDToaster/MCVersions/actions/workflows/main.yml/badge.svg)](https://github.com/EDToaster/MCVersions/actions/workflows/main.yml)
 
@@ -6,6 +6,7 @@ Here are all of the available Minecraft server links, as well as the server mapp
 
 | Version | Release Type | Server | Server Mappings |
 |---|---|---|---|
+| 1.19-rc1 | snapshot |  [Link](https://launcher.mojang.com/v1/objects/76ebdba03954e5a2185fb7a1d3a25096eb6bd195/server.jar)<br><details><summary>SHA1</summary>76ebdba03954e5a2185fb7a1d3a25096eb6bd195</details>  |  [Link](https://launcher.mojang.com/v1/objects/84cf610e282cef1d158df2113902b403759260d8/server.txt)<br><details><summary>SHA1</summary>84cf610e282cef1d158df2113902b403759260d8</details>  |
 | 1.19-pre5 | snapshot |  [Link](https://launcher.mojang.com/v1/objects/1ba1b6389f00fa40a10af047fd7a76a9c68dba72/server.jar)<br><details><summary>SHA1</summary>1ba1b6389f00fa40a10af047fd7a76a9c68dba72</details>  |  [Link](https://launcher.mojang.com/v1/objects/d85139118898f70c27d6cd69fabd8f55246f684a/server.txt)<br><details><summary>SHA1</summary>d85139118898f70c27d6cd69fabd8f55246f684a</details>  |
 | 1.19-pre4 | snapshot |  [Link](https://launcher.mojang.com/v1/objects/a16331571233081eced58459a33254aa5a984a7d/server.jar)<br><details><summary>SHA1</summary>a16331571233081eced58459a33254aa5a984a7d</details>  |  [Link](https://launcher.mojang.com/v1/objects/374ebb5d3ff36b1ec4b621f367ccba93f0f445ac/server.txt)<br><details><summary>SHA1</summary>374ebb5d3ff36b1ec4b621f367ccba93f0f445ac</details>  |
 | 1.19-pre3 | snapshot |  [Link](https://launcher.mojang.com/v1/objects/0702387c3519cc23a5184893275d00c05abf056d/server.jar)<br><details><summary>SHA1</summary>0702387c3519cc23a5184893275d00c05abf056d</details>  |  [Link](https://launcher.mojang.com/v1/objects/3151a5cf8b4489876325973837302390c2352902/server.txt)<br><details><summary>SHA1</summary>3151a5cf8b4489876325973837302390c2352902</details>  |
