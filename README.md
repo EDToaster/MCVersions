@@ -1,4 +1,4 @@
-# Minecraft Server Links (1.19/1.19.1-rc1)
+# Minecraft Server Links (1.19/1.19.1-pre2)
 
 [![AutoUpdater](https://github.com/EDToaster/MCVersions/actions/workflows/main.yml/badge.svg)](https://github.com/EDToaster/MCVersions/actions/workflows/main.yml)
 
@@ -6,6 +6,7 @@ Here are all of the available Minecraft server links, as well as the server mapp
 
 | Version | Release Type | Server | Server Mappings |
 |---|---|---|---|
+| 1.19.1-pre2 | snapshot |  [Link](https://piston-data.mojang.com/v1/objects/17354c4963fb0176ad34595927ce62e55ea3daf4/server.jar)<br><details><summary>SHA1</summary>17354c4963fb0176ad34595927ce62e55ea3daf4</details>  |  [Link](https://piston-data.mojang.com/v1/objects/52d29ae61f8a54003b81a65f6f06ee7a4be8522f/server.txt)<br><details><summary>SHA1</summary>52d29ae61f8a54003b81a65f6f06ee7a4be8522f</details>  |
 | 1.19.1-rc1 | snapshot |  [Link](https://piston-data.mojang.com/v1/objects/71a6d4c634de517ab1b6c2db8b743cbc831d9794/server.jar)<br><details><summary>SHA1</summary>71a6d4c634de517ab1b6c2db8b743cbc831d9794</details>  |  [Link](https://piston-data.mojang.com/v1/objects/cd109fe35e99982bc443fbff21a1c5d12beca422/server.txt)<br><details><summary>SHA1</summary>cd109fe35e99982bc443fbff21a1c5d12beca422</details>  |
 | 1.19.1-pre1 | snapshot |  [Link](https://piston-data.mojang.com/v1/objects/a4d30a572176e81e115d36ec71bd2e67798ed14e/server.jar)<br><details><summary>SHA1</summary>a4d30a572176e81e115d36ec71bd2e67798ed14e</details>  |  [Link](https://piston-data.mojang.com/v1/objects/2c23942beb9a74e6da5c960aeeeee7b39c1632ee/server.txt)<br><details><summary>SHA1</summary>2c23942beb9a74e6da5c960aeeeee7b39c1632ee</details>  |
 | 22w24a | snapshot |  [Link](https://piston-data.mojang.com/v1/objects/fdad42550c3f0bcdc52680dcebd5b712d32bc5d7/server.jar)<br><details><summary>SHA1</summary>fdad42550c3f0bcdc52680dcebd5b712d32bc5d7</details>  |  [Link](https://piston-data.mojang.com/v1/objects/f31da192de018cbd3b449881f8778f5fcec6f56b/server.txt)<br><details><summary>SHA1</summary>f31da192de018cbd3b449881f8778f5fcec6f56b</details>  |
