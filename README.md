@@ -1,4 +1,4 @@
-# Minecraft Server Links (1.19.2/22w43a)
+# Minecraft Server Links (1.19.2/22w44a)
 
 [![AutoUpdater](https://github.com/EDToaster/MCVersions/actions/workflows/main.yml/badge.svg)](https://github.com/EDToaster/MCVersions/actions/workflows/main.yml)
 
@@ -6,6 +6,7 @@ Here are all of the available Minecraft server links, as well as the server mapp
 
 | Version | Release Type | Server | Server Mappings |
 |---|---|---|---|
+| 22w44a | snapshot |  [Link](https://piston-data.mojang.com/v1/objects/ed050b461b7dd347f383176ef03a71bacb844e69/server.jar)<br><details><summary>SHA1</summary>ed050b461b7dd347f383176ef03a71bacb844e69</details>  |  [Link](https://piston-data.mojang.com/v1/objects/a5d8e1dbb9ec557abc6667d0c0a639037248e5f3/server.txt)<br><details><summary>SHA1</summary>a5d8e1dbb9ec557abc6667d0c0a639037248e5f3</details>  |
 | 22w43a | snapshot |  [Link](https://piston-data.mojang.com/v1/objects/6718a5ac0b073644dbdfbd25f8218c68a1b390db/server.jar)<br><details><summary>SHA1</summary>6718a5ac0b073644dbdfbd25f8218c68a1b390db</details>  |  [Link](https://piston-data.mojang.com/v1/objects/25feb69212ba7f3dc9071c1c81f0632898c98339/server.txt)<br><details><summary>SHA1</summary>25feb69212ba7f3dc9071c1c81f0632898c98339</details>  |
 | 22w42a | snapshot |  [Link](https://piston-data.mojang.com/v1/objects/008996e2d1e0d49d7f1b477f69106a6d23c5c103/server.jar)<br><details><summary>SHA1</summary>008996e2d1e0d49d7f1b477f69106a6d23c5c103</details>  |  [Link](https://piston-data.mojang.com/v1/objects/4ef43965a4f1b02489d7b41f1b16f6e517047408/server.txt)<br><details><summary>SHA1</summary>4ef43965a4f1b02489d7b41f1b16f6e517047408</details>  |
 | 1.19.2 | release |  [Link](https://piston-data.mojang.com/v1/objects/f69c284232d7c7580bd89a5a4931c3581eae1378/server.jar)<br><details><summary>SHA1</summary>f69c284232d7c7580bd89a5a4931c3581eae1378</details>  |  [Link](https://piston-data.mojang.com/v1/objects/ed5e6e8334ad67f5af0150beed0f3d156d74bd57/server.txt)<br><details><summary>SHA1</summary>ed5e6e8334ad67f5af0150beed0f3d156d74bd57</details>  |
