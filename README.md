@@ -1,4 +1,4 @@
-# Minecraft Server Links (1.19.2/22w45a)
+# Minecraft Server Links (1.19.2/22w46a)
 
 [![AutoUpdater](https://github.com/EDToaster/MCVersions/actions/workflows/main.yml/badge.svg)](https://github.com/EDToaster/MCVersions/actions/workflows/main.yml)
 
@@ -6,6 +6,7 @@ Here are all of the available Minecraft server links, as well as the server mapp
 
 | Version | Release Type | Server | Server Mappings |
 |---|---|---|---|
+| 22w46a | snapshot |  [Link](https://piston-data.mojang.com/v1/objects/302ae4acba96e733fdbe144ebe2ba575b2bbf969/server.jar)<br><details><summary>SHA1</summary>302ae4acba96e733fdbe144ebe2ba575b2bbf969</details>  |  [Link](https://piston-data.mojang.com/v1/objects/f27522d1a43b80942bc5c66a8fcad51a0dc0fe18/server.txt)<br><details><summary>SHA1</summary>f27522d1a43b80942bc5c66a8fcad51a0dc0fe18</details>  |
 | 22w45a | snapshot |  [Link](https://piston-data.mojang.com/v1/objects/d98f05500b14a8884b85e71be9fa1ef0d261029a/server.jar)<br><details><summary>SHA1</summary>d98f05500b14a8884b85e71be9fa1ef0d261029a</details>  |  [Link](https://piston-data.mojang.com/v1/objects/b88f3ce1998f51e195f0e7ca43d46ad901bfb144/server.txt)<br><details><summary>SHA1</summary>b88f3ce1998f51e195f0e7ca43d46ad901bfb144</details>  |
 | 22w44a | snapshot |  [Link](https://piston-data.mojang.com/v1/objects/ed050b461b7dd347f383176ef03a71bacb844e69/server.jar)<br><details><summary>SHA1</summary>ed050b461b7dd347f383176ef03a71bacb844e69</details>  |  [Link](https://piston-data.mojang.com/v1/objects/a5d8e1dbb9ec557abc6667d0c0a639037248e5f3/server.txt)<br><details><summary>SHA1</summary>a5d8e1dbb9ec557abc6667d0c0a639037248e5f3</details>  |
 | 22w43a | snapshot |  [Link](https://piston-data.mojang.com/v1/objects/6718a5ac0b073644dbdfbd25f8218c68a1b390db/server.jar)<br><details><summary>SHA1</summary>6718a5ac0b073644dbdfbd25f8218c68a1b390db</details>  |  [Link](https://piston-data.mojang.com/v1/objects/25feb69212ba7f3dc9071c1c81f0632898c98339/server.txt)<br><details><summary>SHA1</summary>25feb69212ba7f3dc9071c1c81f0632898c98339</details>  |
