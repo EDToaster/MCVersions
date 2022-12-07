@@ -1,4 +1,4 @@
-# Minecraft Server Links (1.19.2/1.19.3-rc3)
+# Minecraft Server Links (1.19.3/1.19.3)
 
 [![AutoUpdater](https://github.com/EDToaster/MCVersions/actions/workflows/main.yml/badge.svg)](https://github.com/EDToaster/MCVersions/actions/workflows/main.yml)
 
@@ -6,6 +6,7 @@ Here are all of the available Minecraft server links, as well as the server mapp
 
 | Version | Release Type | Server | Server Mappings |
 |---|---|---|---|
+| 1.19.3 | release |  [Link](https://piston-data.mojang.com/v1/objects/c9df48efed58511cdd0213c56b9013a7b5c9ac1f/server.jar)<br><details><summary>SHA1</summary>c9df48efed58511cdd0213c56b9013a7b5c9ac1f</details>  |  [Link](https://piston-data.mojang.com/v1/objects/bc44f6dd84cd2f3ad8c0caad850eaca9e82067e3/server.txt)<br><details><summary>SHA1</summary>bc44f6dd84cd2f3ad8c0caad850eaca9e82067e3</details>  |
 | 1.19.3-rc3 | snapshot |  [Link](https://piston-data.mojang.com/v1/objects/5f459ba58558d797229c819c0314bec84e774ecb/server.jar)<br><details><summary>SHA1</summary>5f459ba58558d797229c819c0314bec84e774ecb</details>  |  [Link](https://piston-data.mojang.com/v1/objects/48f573d570db6fa7ab99e62ce2bf4a00abcc6166/server.txt)<br><details><summary>SHA1</summary>48f573d570db6fa7ab99e62ce2bf4a00abcc6166</details>  |
 | 1.19.3-rc2 | snapshot |  [Link](https://piston-data.mojang.com/v1/objects/138c813e22102e1a82a1be7b76080f40235183fe/server.jar)<br><details><summary>SHA1</summary>138c813e22102e1a82a1be7b76080f40235183fe</details>  |  [Link](https://piston-data.mojang.com/v1/objects/0d0407d32a14c98f43f272ebca0858135ea306d7/server.txt)<br><details><summary>SHA1</summary>0d0407d32a14c98f43f272ebca0858135ea306d7</details>  |
 | 1.19.3-rc1 | snapshot |  [Link](https://piston-data.mojang.com/v1/objects/0c713920eff7358cb01c56979e8d732943bb893b/server.jar)<br><details><summary>SHA1</summary>0c713920eff7358cb01c56979e8d732943bb893b</details>  |  [Link](https://piston-data.mojang.com/v1/objects/fd5068263995047df70deb45fa54d747f0b3f837/server.txt)<br><details><summary>SHA1</summary>fd5068263995047df70deb45fa54d747f0b3f837</details>  |
