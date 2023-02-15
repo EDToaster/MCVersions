@@ -1,4 +1,4 @@
-# Minecraft Server Links (1.19.3/23w06a)
+# Minecraft Server Links (1.19.3/23w07a)
 
 [![AutoUpdater](https://github.com/EDToaster/MCVersions/actions/workflows/main.yml/badge.svg)](https://github.com/EDToaster/MCVersions/actions/workflows/main.yml)
 
@@ -6,6 +6,7 @@ Here are all of the available Minecraft server links, as well as the server mapp
 
 | Version | Release Type | Server | Server Mappings |
 |---|---|---|---|
+| 23w07a | snapshot |  [Link](https://piston-data.mojang.com/v1/objects/b919e6e1683a4b6f37f2717c7841e88e306bdc94/server.jar)<br><details><summary>SHA1</summary>b919e6e1683a4b6f37f2717c7841e88e306bdc94</details>  |  [Link](https://piston-data.mojang.com/v1/objects/b87658adbb3c8fdd8d9c873d464a8d3058bde61c/server.txt)<br><details><summary>SHA1</summary>b87658adbb3c8fdd8d9c873d464a8d3058bde61c</details>  |
 | 23w06a | snapshot |  [Link](https://piston-data.mojang.com/v1/objects/daaed1fac98d17bd76f8fd43268f1c1b97230b59/server.jar)<br><details><summary>SHA1</summary>daaed1fac98d17bd76f8fd43268f1c1b97230b59</details>  |  [Link](https://piston-data.mojang.com/v1/objects/1ce40d5437e644ef89545dc70f0efae1877c3ae4/server.txt)<br><details><summary>SHA1</summary>1ce40d5437e644ef89545dc70f0efae1877c3ae4</details>  |
 | 23w05a | snapshot |  [Link](https://piston-data.mojang.com/v1/objects/98cfa3f8f9aef61e1298c9cfd62f6eeaf8abe206/server.jar)<br><details><summary>SHA1</summary>98cfa3f8f9aef61e1298c9cfd62f6eeaf8abe206</details>  |  [Link](https://piston-data.mojang.com/v1/objects/24598c60bcca90d0744503b7d1f8aff5c157bcb2/server.txt)<br><details><summary>SHA1</summary>24598c60bcca90d0744503b7d1f8aff5c157bcb2</details>  |
 | 23w04a | snapshot |  [Link](https://piston-data.mojang.com/v1/objects/2f31a8584ec1e70abd2d8b22d976feb52a6a3e31/server.jar)<br><details><summary>SHA1</summary>2f31a8584ec1e70abd2d8b22d976feb52a6a3e31</details>  |  [Link](https://piston-data.mojang.com/v1/objects/868745891d933db0ae97afd7046416a2af961e86/server.txt)<br><details><summary>SHA1</summary>868745891d933db0ae97afd7046416a2af961e86</details>  |
