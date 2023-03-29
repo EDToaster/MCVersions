@@ -1,4 +1,4 @@
-# Minecraft Server Links (1.19.4/23w12a)
+# Minecraft Server Links (1.19.4/23w13a)
 
 [![AutoUpdater](https://github.com/EDToaster/MCVersions/actions/workflows/main.yml/badge.svg)](https://github.com/EDToaster/MCVersions/actions/workflows/main.yml)
 
@@ -6,6 +6,7 @@ Here are all of the available Minecraft server links, as well as the server mapp
 
 | Version | Release Type | Server | Server Mappings |
 |---|---|---|---|
+| 23w13a | snapshot |  [Link](https://piston-data.mojang.com/v1/objects/701767d4d07aad992e3e2875ae5d1485cebf66e0/server.jar)<br><details><summary>SHA1</summary>701767d4d07aad992e3e2875ae5d1485cebf66e0</details>  |  [Link](https://piston-data.mojang.com/v1/objects/9cd2634d8c52f0a76f63d4ea89c77c9ccaf662c2/server.txt)<br><details><summary>SHA1</summary>9cd2634d8c52f0a76f63d4ea89c77c9ccaf662c2</details>  |
 | 23w12a | snapshot |  [Link](https://piston-data.mojang.com/v1/objects/92fdef90109e534d47e378124ab86e2d6d7b3a42/server.jar)<br><details><summary>SHA1</summary>92fdef90109e534d47e378124ab86e2d6d7b3a42</details>  |  [Link](https://piston-data.mojang.com/v1/objects/1e74e50869a8510dff62dc2d78d57c81ca7363f9/server.txt)<br><details><summary>SHA1</summary>1e74e50869a8510dff62dc2d78d57c81ca7363f9</details>  |
 | 1.19.4 | release |  [Link](https://piston-data.mojang.com/v1/objects/8f3112a1049751cc472ec13e397eade5336ca7ae/server.jar)<br><details><summary>SHA1</summary>8f3112a1049751cc472ec13e397eade5336ca7ae</details>  |  [Link](https://piston-data.mojang.com/v1/objects/73c8bb982e420b33aad9632b482608c5c33e2d13/server.txt)<br><details><summary>SHA1</summary>73c8bb982e420b33aad9632b482608c5c33e2d13</details>  |
 | 1.19.4-rc3 | snapshot |  [Link](https://piston-data.mojang.com/v1/objects/905778cc578c5a1757a9358a3feb5c19a0178fec/server.jar)<br><details><summary>SHA1</summary>905778cc578c5a1757a9358a3feb5c19a0178fec</details>  |  [Link](https://piston-data.mojang.com/v1/objects/9aea4cf2285542a205e9fb54562d0cedb0a38fb0/server.txt)<br><details><summary>SHA1</summary>9aea4cf2285542a205e9fb54562d0cedb0a38fb0</details>  |
