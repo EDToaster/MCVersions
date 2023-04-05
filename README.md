@@ -1,4 +1,4 @@
-# Minecraft Server Links (1.19.4/23w13a_or_b)
+# Minecraft Server Links (1.19.4/23w14a)
 
 [![AutoUpdater](https://github.com/EDToaster/MCVersions/actions/workflows/main.yml/badge.svg)](https://github.com/EDToaster/MCVersions/actions/workflows/main.yml)
 
@@ -6,7 +6,8 @@ Here are all of the available Minecraft server links, as well as the server mapp
 
 | Version | Release Type | Server | Server Mappings |
 |---|---|---|---|
-| 23w13a_or_b | snapshot |  [Link](https://piston-data.mojang.com/v1/objects/7a9b53ec7999ce01b73a74f3ab9e7e520b09f0eb/server.jar)<br><details><summary>SHA1</summary>7a9b53ec7999ce01b73a74f3ab9e7e520b09f0eb</details>  |  [Link](https://piston-data.mojang.com/v1/objects/ead837552ff7df2b1b52009b992af9a916c47474/server.txt)<br><details><summary>SHA1</summary>ead837552ff7df2b1b52009b992af9a916c47474</details>  |
+| 23w14a | snapshot |  [Link](https://piston-data.mojang.com/v1/objects/cb67d34c44013759bca77085ae42e3a7b37f265d/server.jar)<br><details><summary>SHA1</summary>cb67d34c44013759bca77085ae42e3a7b37f265d</details>  |  [Link](https://piston-data.mojang.com/v1/objects/3cc39a9df8b488da0e409fed8cf028a3d4c94f52/server.txt)<br><details><summary>SHA1</summary>3cc39a9df8b488da0e409fed8cf028a3d4c94f52</details>  |
+| 23w13a_or_b | snapshot |  [Link](https://piston-data.mojang.com/v1/objects/6241fc14ce7a659f371683a72aa24c155f60cce1/server.jar)<br><details><summary>SHA1</summary>6241fc14ce7a659f371683a72aa24c155f60cce1</details>  |  [Link](https://piston-data.mojang.com/v1/objects/370d31c1b7d700ee65ddeb25f975a2e67d1d13d0/server.txt)<br><details><summary>SHA1</summary>370d31c1b7d700ee65ddeb25f975a2e67d1d13d0</details>  |
 | 23w13a | snapshot |  [Link](https://piston-data.mojang.com/v1/objects/701767d4d07aad992e3e2875ae5d1485cebf66e0/server.jar)<br><details><summary>SHA1</summary>701767d4d07aad992e3e2875ae5d1485cebf66e0</details>  |  [Link](https://piston-data.mojang.com/v1/objects/9cd2634d8c52f0a76f63d4ea89c77c9ccaf662c2/server.txt)<br><details><summary>SHA1</summary>9cd2634d8c52f0a76f63d4ea89c77c9ccaf662c2</details>  |
 | 23w12a | snapshot |  [Link](https://piston-data.mojang.com/v1/objects/92fdef90109e534d47e378124ab86e2d6d7b3a42/server.jar)<br><details><summary>SHA1</summary>92fdef90109e534d47e378124ab86e2d6d7b3a42</details>  |  [Link](https://piston-data.mojang.com/v1/objects/1e74e50869a8510dff62dc2d78d57c81ca7363f9/server.txt)<br><details><summary>SHA1</summary>1e74e50869a8510dff62dc2d78d57c81ca7363f9</details>  |
 | 1.19.4 | release |  [Link](https://piston-data.mojang.com/v1/objects/8f3112a1049751cc472ec13e397eade5336ca7ae/server.jar)<br><details><summary>SHA1</summary>8f3112a1049751cc472ec13e397eade5336ca7ae</details>  |  [Link](https://piston-data.mojang.com/v1/objects/73c8bb982e420b33aad9632b482608c5c33e2d13/server.txt)<br><details><summary>SHA1</summary>73c8bb982e420b33aad9632b482608c5c33e2d13</details>  |
