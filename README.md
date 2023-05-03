@@ -1,4 +1,4 @@
-# Minecraft Server Links (1.19.4/23w17a)
+# Minecraft Server Links (1.19.4/23w18a)
 
 [![AutoUpdater](https://github.com/EDToaster/MCVersions/actions/workflows/main.yml/badge.svg)](https://github.com/EDToaster/MCVersions/actions/workflows/main.yml)
 
@@ -6,6 +6,7 @@ Here are all of the available Minecraft server links, as well as the server mapp
 
 | Version | Release Type | Server | Server Mappings |
 |---|---|---|---|
+| 23w18a | snapshot |  [Link](https://piston-data.mojang.com/v1/objects/240177c763b6009ea81aaf0ef14a73822320856d/server.jar)<br><details><summary>SHA1</summary>240177c763b6009ea81aaf0ef14a73822320856d</details>  |  [Link](https://piston-data.mojang.com/v1/objects/7015077a47c07e8d129280b73a40e8ddb11fc589/server.txt)<br><details><summary>SHA1</summary>7015077a47c07e8d129280b73a40e8ddb11fc589</details>  |
 | 23w17a | snapshot |  [Link](https://piston-data.mojang.com/v1/objects/96e1b9db0f3d90309db34e8ce4fd39b52f6ddaa0/server.jar)<br><details><summary>SHA1</summary>96e1b9db0f3d90309db34e8ce4fd39b52f6ddaa0</details>  |  [Link](https://piston-data.mojang.com/v1/objects/fa5f3188bb2d39796e83a7924edbf212edec8f4e/server.txt)<br><details><summary>SHA1</summary>fa5f3188bb2d39796e83a7924edbf212edec8f4e</details>  |
 | 23w16a | snapshot |  [Link](https://piston-data.mojang.com/v1/objects/4a8487f877eb4f3506978fb85faf41a08b570398/server.jar)<br><details><summary>SHA1</summary>4a8487f877eb4f3506978fb85faf41a08b570398</details>  |  [Link](https://piston-data.mojang.com/v1/objects/c01d9d4ad256275dead34e819678db1e04256e08/server.txt)<br><details><summary>SHA1</summary>c01d9d4ad256275dead34e819678db1e04256e08</details>  |
 | 23w14a | snapshot |  [Link](https://piston-data.mojang.com/v1/objects/cb67d34c44013759bca77085ae42e3a7b37f265d/server.jar)<br><details><summary>SHA1</summary>cb67d34c44013759bca77085ae42e3a7b37f265d</details>  |  [Link](https://piston-data.mojang.com/v1/objects/3cc39a9df8b488da0e409fed8cf028a3d4c94f52/server.txt)<br><details><summary>SHA1</summary>3cc39a9df8b488da0e409fed8cf028a3d4c94f52</details>  |
