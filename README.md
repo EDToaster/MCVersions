@@ -1,4 +1,4 @@
-# Minecraft Server Links (1.19.4/1.20-pre7)
+# Minecraft Server Links (1.19.4/1.20-rc1)
 
 [![AutoUpdater](https://github.com/EDToaster/MCVersions/actions/workflows/main.yml/badge.svg)](https://github.com/EDToaster/MCVersions/actions/workflows/main.yml)
 
@@ -6,6 +6,7 @@ Here are all of the available Minecraft server links, as well as the server mapp
 
 | Version | Release Type | Server | Server Mappings |
 |---|---|---|---|
+| 1.20-rc1 | snapshot |  [Link](https://piston-data.mojang.com/v1/objects/0d9315f92842e35fcb6fddb10db3a13675a1ad04/server.jar)<br><details><summary>SHA1</summary>0d9315f92842e35fcb6fddb10db3a13675a1ad04</details>  |  [Link](https://piston-data.mojang.com/v1/objects/e30437fd09aba8abc6342f36dab47c78301f4ab2/server.txt)<br><details><summary>SHA1</summary>e30437fd09aba8abc6342f36dab47c78301f4ab2</details>  |
 | 1.20-pre7 | snapshot |  [Link](https://piston-data.mojang.com/v1/objects/ed6ddd61aeb1f529ef626fae9bcb0a5f51491f71/server.jar)<br><details><summary>SHA1</summary>ed6ddd61aeb1f529ef626fae9bcb0a5f51491f71</details>  |  [Link](https://piston-data.mojang.com/v1/objects/3d30c709afce24c9a85daabb900640f2a042f76e/server.txt)<br><details><summary>SHA1</summary>3d30c709afce24c9a85daabb900640f2a042f76e</details>  |
 | 1.20-pre6 | snapshot |  [Link](https://piston-data.mojang.com/v1/objects/c737b7411fc0b60426a9feca83d09d63f4a86f27/server.jar)<br><details><summary>SHA1</summary>c737b7411fc0b60426a9feca83d09d63f4a86f27</details>  |  [Link](https://piston-data.mojang.com/v1/objects/c77ccb042ced83e08727a05f0e289e4a4f981b39/server.txt)<br><details><summary>SHA1</summary>c77ccb042ced83e08727a05f0e289e4a4f981b39</details>  |
 | 1.20-pre5 | snapshot |  [Link](https://piston-data.mojang.com/v1/objects/2b41aed1e7c7fecf11ca15bad03b0fa95eb4fbd9/server.jar)<br><details><summary>SHA1</summary>2b41aed1e7c7fecf11ca15bad03b0fa95eb4fbd9</details>  |  [Link](https://piston-data.mojang.com/v1/objects/0999221f21be2f69b3a7cf1fb92da39304194d03/server.txt)<br><details><summary>SHA1</summary>0999221f21be2f69b3a7cf1fb92da39304194d03</details>  |
