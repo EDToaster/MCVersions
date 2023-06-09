@@ -1,4 +1,4 @@
-# Minecraft Server Links (1.20/1.20)
+# Minecraft Server Links (1.20/1.20.1-rc1)
 
 [![AutoUpdater](https://github.com/EDToaster/MCVersions/actions/workflows/main.yml/badge.svg)](https://github.com/EDToaster/MCVersions/actions/workflows/main.yml)
 
@@ -6,6 +6,7 @@ Here are all of the available Minecraft server links, as well as the server mapp
 
 | Version | Release Type | Server | Server Mappings |
 |---|---|---|---|
+| 1.20.1-rc1 | snapshot |  [Link](https://piston-data.mojang.com/v1/objects/6890ac51068a05e3fcc4158478247e5a5e47bcac/server.jar)<br><details><summary>SHA1</summary>6890ac51068a05e3fcc4158478247e5a5e47bcac</details>  |  [Link](https://piston-data.mojang.com/v1/objects/edc6386d1fb5681b82f971877720a7e5914761c3/server.txt)<br><details><summary>SHA1</summary>edc6386d1fb5681b82f971877720a7e5914761c3</details>  |
 | 1.20 | release |  [Link](https://piston-data.mojang.com/v1/objects/15c777e2cfe0556eef19aab534b186c0c6f277e1/server.jar)<br><details><summary>SHA1</summary>15c777e2cfe0556eef19aab534b186c0c6f277e1</details>  |  [Link](https://piston-data.mojang.com/v1/objects/15e61168fd24c7950b22cd3b9e771a7ce4035b41/server.txt)<br><details><summary>SHA1</summary>15e61168fd24c7950b22cd3b9e771a7ce4035b41</details>  |
 | 1.20-rc1 | snapshot |  [Link](https://piston-data.mojang.com/v1/objects/0d9315f92842e35fcb6fddb10db3a13675a1ad04/server.jar)<br><details><summary>SHA1</summary>0d9315f92842e35fcb6fddb10db3a13675a1ad04</details>  |  [Link](https://piston-data.mojang.com/v1/objects/e30437fd09aba8abc6342f36dab47c78301f4ab2/server.txt)<br><details><summary>SHA1</summary>e30437fd09aba8abc6342f36dab47c78301f4ab2</details>  |
 | 1.20-pre7 | snapshot |  [Link](https://piston-data.mojang.com/v1/objects/ed6ddd61aeb1f529ef626fae9bcb0a5f51491f71/server.jar)<br><details><summary>SHA1</summary>ed6ddd61aeb1f529ef626fae9bcb0a5f51491f71</details>  |  [Link](https://piston-data.mojang.com/v1/objects/3d30c709afce24c9a85daabb900640f2a042f76e/server.txt)<br><details><summary>SHA1</summary>3d30c709afce24c9a85daabb900640f2a042f76e</details>  |
