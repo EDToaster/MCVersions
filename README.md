@@ -1,4 +1,4 @@
-# Minecraft Server Links (1.20.1/23w33a)
+# Minecraft Server Links (1.20.1/23w35a)
 
 [![AutoUpdater](https://github.com/EDToaster/MCVersions/actions/workflows/main.yml/badge.svg)](https://github.com/EDToaster/MCVersions/actions/workflows/main.yml)
 
@@ -6,6 +6,7 @@ Here are all of the available Minecraft server links, as well as the server mapp
 
 | Version | Release Type | Server | Server Mappings |
 |---|---|---|---|
+| 23w35a | snapshot |  [Link](https://piston-data.mojang.com/v1/objects/6a2ac9eecb377f4894b84de711973edc751d0607/server.jar)<br><details><summary>SHA1</summary>6a2ac9eecb377f4894b84de711973edc751d0607</details>  |  [Link](https://piston-data.mojang.com/v1/objects/4bae81144b161cb8b7250efd9196486bb37c1b47/server.txt)<br><details><summary>SHA1</summary>4bae81144b161cb8b7250efd9196486bb37c1b47</details>  |
 | 23w33a | snapshot |  [Link](https://piston-data.mojang.com/v1/objects/0254dde460b23861840cff6e80fc7fdbbccad88e/server.jar)<br><details><summary>SHA1</summary>0254dde460b23861840cff6e80fc7fdbbccad88e</details>  |  [Link](https://piston-data.mojang.com/v1/objects/9a8dacfac454415387007ce564d7a06d07e7ac0f/server.txt)<br><details><summary>SHA1</summary>9a8dacfac454415387007ce564d7a06d07e7ac0f</details>  |
 | 23w32a | snapshot |  [Link](https://piston-data.mojang.com/v1/objects/bfe1a408d8d809b206369fceab0e8a883226d0a6/server.jar)<br><details><summary>SHA1</summary>bfe1a408d8d809b206369fceab0e8a883226d0a6</details>  |  [Link](https://piston-data.mojang.com/v1/objects/e949295085435bb727c816fd5cd99188b57a3a16/server.txt)<br><details><summary>SHA1</summary>e949295085435bb727c816fd5cd99188b57a3a16</details>  |
 | 23w31a | snapshot |  [Link](https://piston-data.mojang.com/v1/objects/11ef2ae139b0badda80a1ea07c2dd0cf9034a32f/server.jar)<br><details><summary>SHA1</summary>11ef2ae139b0badda80a1ea07c2dd0cf9034a32f</details>  |  [Link](https://piston-data.mojang.com/v1/objects/9c53d6835200aa4e6d771f774ee499e37864f4e6/server.txt)<br><details><summary>SHA1</summary>9c53d6835200aa4e6d771f774ee499e37864f4e6</details>  |
