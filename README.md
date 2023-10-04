@@ -1,4 +1,4 @@
-# Minecraft Server Links (1.20.2/1.20.2)
+# Minecraft Server Links (1.20.2/23w40a)
 
 [![AutoUpdater](https://github.com/EDToaster/MCVersions/actions/workflows/main.yml/badge.svg)](https://github.com/EDToaster/MCVersions/actions/workflows/main.yml)
 
@@ -6,6 +6,7 @@ Here are all of the available Minecraft server links, as well as the server mapp
 
 | Version | Release Type | Server | Server Mappings |
 |---|---|---|---|
+| 23w40a | snapshot |  [Link](https://piston-data.mojang.com/v1/objects/0f51a81705f4694b92f5273ffa2c52c45f27b7f8/server.jar)<br><details><summary>SHA1</summary>0f51a81705f4694b92f5273ffa2c52c45f27b7f8</details>  |  [Link](https://piston-data.mojang.com/v1/objects/ffe335fafa460378bf4242b9d07c4edc0f95f4bc/server.txt)<br><details><summary>SHA1</summary>ffe335fafa460378bf4242b9d07c4edc0f95f4bc</details>  |
 | 1.20.2 | release |  [Link](https://piston-data.mojang.com/v1/objects/5b868151bd02b41319f54c8d4061b8cae84e665c/server.jar)<br><details><summary>SHA1</summary>5b868151bd02b41319f54c8d4061b8cae84e665c</details>  |  [Link](https://piston-data.mojang.com/v1/objects/dced504a9b5df367ddd3477adac084cea8024ba4/server.txt)<br><details><summary>SHA1</summary>dced504a9b5df367ddd3477adac084cea8024ba4</details>  |
 | 1.20.2-rc2 | snapshot |  [Link](https://piston-data.mojang.com/v1/objects/ef01ddc7ee3fd517f55f34259c411323673b6347/server.jar)<br><details><summary>SHA1</summary>ef01ddc7ee3fd517f55f34259c411323673b6347</details>  |  [Link](https://piston-data.mojang.com/v1/objects/3074dce5ce162289c28c458653006dcefba2e883/server.txt)<br><details><summary>SHA1</summary>3074dce5ce162289c28c458653006dcefba2e883</details>  |
 | 1.20.2-rc1 | snapshot |  [Link](https://piston-data.mojang.com/v1/objects/70dad7e61afc2e255e73842760ef9461a00c852d/server.jar)<br><details><summary>SHA1</summary>70dad7e61afc2e255e73842760ef9461a00c852d</details>  |  [Link](https://piston-data.mojang.com/v1/objects/681e7170ebe950dcab1ddca1414b47e26cc43f54/server.txt)<br><details><summary>SHA1</summary>681e7170ebe950dcab1ddca1414b47e26cc43f54</details>  |
