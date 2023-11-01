@@ -1,4 +1,4 @@
-# Minecraft Server Links (1.20.2/23w43b)
+# Minecraft Server Links (1.20.2/23w44a)
 
 [![AutoUpdater](https://github.com/EDToaster/MCVersions/actions/workflows/main.yml/badge.svg)](https://github.com/EDToaster/MCVersions/actions/workflows/main.yml)
 
@@ -6,6 +6,7 @@ Here are all of the available Minecraft server links, as well as the server mapp
 
 | Version | Release Type | Server | Server Mappings |
 |---|---|---|---|
+| 23w44a | snapshot |  [Link](https://piston-data.mojang.com/v1/objects/009b4831cdda78d8f9b235265e45d0bf14a920da/server.jar)<br><details><summary>SHA1</summary>009b4831cdda78d8f9b235265e45d0bf14a920da</details>  |  [Link](https://piston-data.mojang.com/v1/objects/0510a85cbc7b7a3e585c752e9d5bd5d6511f6221/server.txt)<br><details><summary>SHA1</summary>0510a85cbc7b7a3e585c752e9d5bd5d6511f6221</details>  |
 | 23w43b | snapshot |  [Link](https://piston-data.mojang.com/v1/objects/e7f9a4ca5ad3cadee399aa90f1d37f3ee94f292c/server.jar)<br><details><summary>SHA1</summary>e7f9a4ca5ad3cadee399aa90f1d37f3ee94f292c</details>  |  [Link](https://piston-data.mojang.com/v1/objects/de42487ade319bfb2139b761edb3a49d3f052d8d/server.txt)<br><details><summary>SHA1</summary>de42487ade319bfb2139b761edb3a49d3f052d8d</details>  |
 | 23w43a | snapshot |  [Link](https://piston-data.mojang.com/v1/objects/135f89e56c2d83d9ef0f7915f0cdf1047737d51a/server.jar)<br><details><summary>SHA1</summary>135f89e56c2d83d9ef0f7915f0cdf1047737d51a</details>  |  [Link](https://piston-data.mojang.com/v1/objects/fb7db2fd0cd59c85173d1b04c906f46c0c673b1f/server.txt)<br><details><summary>SHA1</summary>fb7db2fd0cd59c85173d1b04c906f46c0c673b1f</details>  |
 | 23w42a | snapshot |  [Link](https://piston-data.mojang.com/v1/objects/b5f423ba1c4191d133c0284a2b1b36da46f8b5f8/server.jar)<br><details><summary>SHA1</summary>b5f423ba1c4191d133c0284a2b1b36da46f8b5f8</details>  |  [Link](https://piston-data.mojang.com/v1/objects/26d8b312ea92aa6a896181c0382c3ecac9fc3235/server.txt)<br><details><summary>SHA1</summary>26d8b312ea92aa6a896181c0382c3ecac9fc3235</details>  |
