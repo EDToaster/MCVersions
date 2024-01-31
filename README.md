@@ -1,4 +1,4 @@
-# Minecraft Server Links (1.20.4/24w04a)
+# Minecraft Server Links (1.20.4/24w05a)
 
 [![AutoUpdater](https://github.com/EDToaster/MCVersions/actions/workflows/main.yml/badge.svg)](https://github.com/EDToaster/MCVersions/actions/workflows/main.yml)
 
@@ -6,6 +6,7 @@ Here are all of the available Minecraft server links, as well as the server mapp
 
 | Version | Release Type | Server | Server Mappings |
 |---|---|---|---|
+| 24w05a | snapshot |  [Link](https://piston-data.mojang.com/v1/objects/cc0f01e6406fa8a2b50c3c06edef74e7a7bf74de/server.jar)<br><details><summary>SHA1</summary>cc0f01e6406fa8a2b50c3c06edef74e7a7bf74de</details>  |  [Link](https://piston-data.mojang.com/v1/objects/5c1132d3b66299cec90da0536d4f5c7fcfeae90f/server.txt)<br><details><summary>SHA1</summary>5c1132d3b66299cec90da0536d4f5c7fcfeae90f</details>  |
 | 24w04a | snapshot |  [Link](https://piston-data.mojang.com/v1/objects/d9f13751240a2fe4e85be1c839d9a4de1413c251/server.jar)<br><details><summary>SHA1</summary>d9f13751240a2fe4e85be1c839d9a4de1413c251</details>  |  [Link](https://piston-data.mojang.com/v1/objects/e22f91519fefe4e4d9692bca4467d8c5d4e89eba/server.txt)<br><details><summary>SHA1</summary>e22f91519fefe4e4d9692bca4467d8c5d4e89eba</details>  |
 | 24w03b | snapshot |  [Link](https://piston-data.mojang.com/v1/objects/5b9a529dc40d8394cbd6203a8ebe66c8e2f86fd4/server.jar)<br><details><summary>SHA1</summary>5b9a529dc40d8394cbd6203a8ebe66c8e2f86fd4</details>  |  [Link](https://piston-data.mojang.com/v1/objects/ad6680c4d142c1f346125d8e1e2baa4ac66576d6/server.txt)<br><details><summary>SHA1</summary>ad6680c4d142c1f346125d8e1e2baa4ac66576d6</details>  |
 | 24w03a | snapshot |  [Link](https://piston-data.mojang.com/v1/objects/730a3ef2f99f6a822aa504bfee2eb5372d826293/server.jar)<br><details><summary>SHA1</summary>730a3ef2f99f6a822aa504bfee2eb5372d826293</details>  |  [Link](https://piston-data.mojang.com/v1/objects/9bd7bc1702cc33db9baf44b7ff081e420d65aebf/server.txt)<br><details><summary>SHA1</summary>9bd7bc1702cc33db9baf44b7ff081e420d65aebf</details>  |
