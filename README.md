@@ -1,4 +1,4 @@
-# Minecraft Server Links (1.20.4/24w07a)
+# Minecraft Server Links (1.20.4/24w09a)
 
 [![AutoUpdater](https://github.com/EDToaster/MCVersions/actions/workflows/main.yml/badge.svg)](https://github.com/EDToaster/MCVersions/actions/workflows/main.yml)
 
@@ -6,6 +6,7 @@ Here are all of the available Minecraft server links, as well as the server mapp
 
 | Version | Release Type | Server | Server Mappings |
 |---|---|---|---|
+| 24w09a | snapshot |  [Link](https://piston-data.mojang.com/v1/objects/7c70922198a2d18e0252c315b55623b822b4e910/server.jar)<br><details><summary>SHA1</summary>7c70922198a2d18e0252c315b55623b822b4e910</details>  |  [Link](https://piston-data.mojang.com/v1/objects/0ab6bb5b2e77137e7a2caf4d0159b19d22f7c9f3/server.txt)<br><details><summary>SHA1</summary>0ab6bb5b2e77137e7a2caf4d0159b19d22f7c9f3</details>  |
 | 24w07a | snapshot |  [Link](https://piston-data.mojang.com/v1/objects/94acd52e9b9392e21a06231bdc4f8f0cd6ccb2af/server.jar)<br><details><summary>SHA1</summary>94acd52e9b9392e21a06231bdc4f8f0cd6ccb2af</details>  |  [Link](https://piston-data.mojang.com/v1/objects/4e4d445c3f582f4a9f4c96ca7d9920f2b0def795/server.txt)<br><details><summary>SHA1</summary>4e4d445c3f582f4a9f4c96ca7d9920f2b0def795</details>  |
 | 24w06a | snapshot |  [Link](https://piston-data.mojang.com/v1/objects/703cffc390ff71b7900d7a4356f48bc2108b448e/server.jar)<br><details><summary>SHA1</summary>703cffc390ff71b7900d7a4356f48bc2108b448e</details>  |  [Link](https://piston-data.mojang.com/v1/objects/4f4e55074cd6a186a2b93fc63e45428720e72632/server.txt)<br><details><summary>SHA1</summary>4f4e55074cd6a186a2b93fc63e45428720e72632</details>  |
 | 24w05b | snapshot |  [Link](https://piston-data.mojang.com/v1/objects/189526bf25c06f7c0071aa637bc5f3668a6457d4/server.jar)<br><details><summary>SHA1</summary>189526bf25c06f7c0071aa637bc5f3668a6457d4</details>  |  [Link](https://piston-data.mojang.com/v1/objects/68fab90ead90da057ffb7f6cd188b613327073fb/server.txt)<br><details><summary>SHA1</summary>68fab90ead90da057ffb7f6cd188b613327073fb</details>  |
