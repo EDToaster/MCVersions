@@ -1,4 +1,4 @@
-# Minecraft Server Links (1.20.4/24w09a)
+# Minecraft Server Links (1.20.4/24w10a)
 
 [![AutoUpdater](https://github.com/EDToaster/MCVersions/actions/workflows/main.yml/badge.svg)](https://github.com/EDToaster/MCVersions/actions/workflows/main.yml)
 
@@ -6,6 +6,7 @@ Here are all of the available Minecraft server links, as well as the server mapp
 
 | Version | Release Type | Server | Server Mappings |
 |---|---|---|---|
+| 24w10a | snapshot |  [Link](https://piston-data.mojang.com/v1/objects/9f8e96ebe4db0323653111b28df63f66395cb19d/server.jar)<br><details><summary>SHA1</summary>9f8e96ebe4db0323653111b28df63f66395cb19d</details>  |  [Link](https://piston-data.mojang.com/v1/objects/22749bb13951c94cf5d21fe16b9884a81d1c6225/server.txt)<br><details><summary>SHA1</summary>22749bb13951c94cf5d21fe16b9884a81d1c6225</details>  |
 | 24w09a | snapshot |  [Link](https://piston-data.mojang.com/v1/objects/7c70922198a2d18e0252c315b55623b822b4e910/server.jar)<br><details><summary>SHA1</summary>7c70922198a2d18e0252c315b55623b822b4e910</details>  |  [Link](https://piston-data.mojang.com/v1/objects/0ab6bb5b2e77137e7a2caf4d0159b19d22f7c9f3/server.txt)<br><details><summary>SHA1</summary>0ab6bb5b2e77137e7a2caf4d0159b19d22f7c9f3</details>  |
 | 24w07a | snapshot |  [Link](https://piston-data.mojang.com/v1/objects/94acd52e9b9392e21a06231bdc4f8f0cd6ccb2af/server.jar)<br><details><summary>SHA1</summary>94acd52e9b9392e21a06231bdc4f8f0cd6ccb2af</details>  |  [Link](https://piston-data.mojang.com/v1/objects/4e4d445c3f582f4a9f4c96ca7d9920f2b0def795/server.txt)<br><details><summary>SHA1</summary>4e4d445c3f582f4a9f4c96ca7d9920f2b0def795</details>  |
 | 24w06a | snapshot |  [Link](https://piston-data.mojang.com/v1/objects/703cffc390ff71b7900d7a4356f48bc2108b448e/server.jar)<br><details><summary>SHA1</summary>703cffc390ff71b7900d7a4356f48bc2108b448e</details>  |  [Link](https://piston-data.mojang.com/v1/objects/4f4e55074cd6a186a2b93fc63e45428720e72632/server.txt)<br><details><summary>SHA1</summary>4f4e55074cd6a186a2b93fc63e45428720e72632</details>  |
@@ -669,8 +670,8 @@ Here are all of the available Minecraft server links, as well as the server mapp
 | 1.5.1 | release |  [Link](https://launcher.mojang.com/v1/objects/d07c71ee2767dabb79fb32dad8162e1b854d5324/server.jar)<br><details><summary>SHA1</summary>d07c71ee2767dabb79fb32dad8162e1b854d5324</details>  |  Missing  |
 | 1.5 | snapshot |  [Link](https://launcher.mojang.com/v1/objects/aedad5159ef56d69c5bcf77ed141f53430af43c3/server.jar)<br><details><summary>SHA1</summary>aedad5159ef56d69c5bcf77ed141f53430af43c3</details>  |  Missing  |
 | 1.4.7 | release |  [Link](https://launcher.mojang.com/v1/objects/2f0ec8efddd2f2c674c77be9ddb370b727dec676/server.jar)<br><details><summary>SHA1</summary>2f0ec8efddd2f2c674c77be9ddb370b727dec676</details>  |  Missing  |
-| 1.4.6 | release |  [Link](https://launcher.mojang.com/v1/objects/a0aeb5709af5f2c3058c1cf0dc6b110a7a61278c/server.jar)<br><details><summary>SHA1</summary>a0aeb5709af5f2c3058c1cf0dc6b110a7a61278c</details>  |  Missing  |
 | 1.4.5 | release |  [Link](https://launcher.mojang.com/v1/objects/c12fd88a8233d2c517dbc8196ba2ae855f4d36ea/server.jar)<br><details><summary>SHA1</summary>c12fd88a8233d2c517dbc8196ba2ae855f4d36ea</details>  |  Missing  |
+| 1.4.6 | release |  [Link](https://launcher.mojang.com/v1/objects/a0aeb5709af5f2c3058c1cf0dc6b110a7a61278c/server.jar)<br><details><summary>SHA1</summary>a0aeb5709af5f2c3058c1cf0dc6b110a7a61278c</details>  |  Missing  |
 | 1.4.4 | release |  [Link](https://launcher.mojang.com/v1/objects/4215dcadb706508bf9d6d64209a0080b9cee9e71/server.jar)<br><details><summary>SHA1</summary>4215dcadb706508bf9d6d64209a0080b9cee9e71</details>  |  Missing  |
 | 1.4.3 | snapshot |  [Link](https://launcher.mojang.com/v1/objects/9be68adf6e80721975df12f2445fa24617328d18/server.jar)<br><details><summary>SHA1</summary>9be68adf6e80721975df12f2445fa24617328d18</details>  |  Missing  |
 | 1.4.2 | release |  [Link](https://launcher.mojang.com/v1/objects/5be700523a729bb78ef99206fb480a63dcd09825/server.jar)<br><details><summary>SHA1</summary>5be700523a729bb78ef99206fb480a63dcd09825</details>  |  Missing  |
