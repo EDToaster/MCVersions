@@ -1,4 +1,4 @@
-# Minecraft Server Links (1.20.4/24w11a)
+# Minecraft Server Links (1.20.4/24w12a)
 
 [![AutoUpdater](https://github.com/EDToaster/MCVersions/actions/workflows/main.yml/badge.svg)](https://github.com/EDToaster/MCVersions/actions/workflows/main.yml)
 
@@ -6,6 +6,7 @@ Here are all of the available Minecraft server links, as well as the server mapp
 
 | Version | Release Type | Server | Server Mappings |
 |---|---|---|---|
+| 24w12a | snapshot |  [Link](https://piston-data.mojang.com/v1/objects/6f036460d361ce1e645bba365a72be2eed35ec01/server.jar)<br><details><summary>SHA1</summary>6f036460d361ce1e645bba365a72be2eed35ec01</details>  |  [Link](https://piston-data.mojang.com/v1/objects/50203a07ba97b3ce9e61cbaa3cadb5b40ee8e160/server.txt)<br><details><summary>SHA1</summary>50203a07ba97b3ce9e61cbaa3cadb5b40ee8e160</details>  |
 | 24w11a | snapshot |  [Link](https://piston-data.mojang.com/v1/objects/00cab0438130dc3e6ae91f53387bb96ae7986d31/server.jar)<br><details><summary>SHA1</summary>00cab0438130dc3e6ae91f53387bb96ae7986d31</details>  |  [Link](https://piston-data.mojang.com/v1/objects/a5e08ee736fb987f2920b98d25961245aac087bc/server.txt)<br><details><summary>SHA1</summary>a5e08ee736fb987f2920b98d25961245aac087bc</details>  |
 | 24w10a | snapshot |  [Link](https://piston-data.mojang.com/v1/objects/9f8e96ebe4db0323653111b28df63f66395cb19d/server.jar)<br><details><summary>SHA1</summary>9f8e96ebe4db0323653111b28df63f66395cb19d</details>  |  [Link](https://piston-data.mojang.com/v1/objects/22749bb13951c94cf5d21fe16b9884a81d1c6225/server.txt)<br><details><summary>SHA1</summary>22749bb13951c94cf5d21fe16b9884a81d1c6225</details>  |
 | 24w09a | snapshot |  [Link](https://piston-data.mojang.com/v1/objects/7c70922198a2d18e0252c315b55623b822b4e910/server.jar)<br><details><summary>SHA1</summary>7c70922198a2d18e0252c315b55623b822b4e910</details>  |  [Link](https://piston-data.mojang.com/v1/objects/0ab6bb5b2e77137e7a2caf4d0159b19d22f7c9f3/server.txt)<br><details><summary>SHA1</summary>0ab6bb5b2e77137e7a2caf4d0159b19d22f7c9f3</details>  |
