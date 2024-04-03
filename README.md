@@ -1,4 +1,4 @@
-# Minecraft Server Links (1.20.4/24w14potato)
+# Minecraft Server Links (1.20.4/24w14a)
 
 [![AutoUpdater](https://github.com/EDToaster/MCVersions/actions/workflows/main.yml/badge.svg)](https://github.com/EDToaster/MCVersions/actions/workflows/main.yml)
 
@@ -6,7 +6,8 @@ Here are all of the available Minecraft server links, as well as the server mapp
 
 | Version | Release Type | Server | Server Mappings |
 |---|---|---|---|
-| 24w14potato | snapshot |  [Link](https://piston-data.mojang.com/v1/objects/846d3fe65b6dab3f8bf929a601e1f83d801d919c/server.jar)<br><details><summary>SHA1</summary>846d3fe65b6dab3f8bf929a601e1f83d801d919c</details>  |  [Link](https://piston-data.mojang.com/v1/objects/fec12079cf53c9933bf02849ac764cb7ad7312d1/server.txt)<br><details><summary>SHA1</summary>fec12079cf53c9933bf02849ac764cb7ad7312d1</details>  |
+| 24w14a | snapshot |  [Link](https://piston-data.mojang.com/v1/objects/960cb0e5c794b02abdbcdbdc15b4de058b222118/server.jar)<br><details><summary>SHA1</summary>960cb0e5c794b02abdbcdbdc15b4de058b222118</details>  |  [Link](https://piston-data.mojang.com/v1/objects/375430dd45c973a929c12c5090552e48f4511d2d/server.txt)<br><details><summary>SHA1</summary>375430dd45c973a929c12c5090552e48f4511d2d</details>  |
+| 24w14potato | snapshot |  [Link](https://piston-data.mojang.com/v1/objects/2d29eee4f5a71f323d20b36d623e2ec21dab74f7/server.jar)<br><details><summary>SHA1</summary>2d29eee4f5a71f323d20b36d623e2ec21dab74f7</details>  |  [Link](https://piston-data.mojang.com/v1/objects/fec12079cf53c9933bf02849ac764cb7ad7312d1/server.txt)<br><details><summary>SHA1</summary>fec12079cf53c9933bf02849ac764cb7ad7312d1</details>  |
 | 24w13a | snapshot |  [Link](https://piston-data.mojang.com/v1/objects/2fd2113b7b81cc78cb4a76939a6c11840d57036d/server.jar)<br><details><summary>SHA1</summary>2fd2113b7b81cc78cb4a76939a6c11840d57036d</details>  |  [Link](https://piston-data.mojang.com/v1/objects/7c03129b48e53704e76c140b16f14883a0e83752/server.txt)<br><details><summary>SHA1</summary>7c03129b48e53704e76c140b16f14883a0e83752</details>  |
 | 24w12a | snapshot |  [Link](https://piston-data.mojang.com/v1/objects/6f036460d361ce1e645bba365a72be2eed35ec01/server.jar)<br><details><summary>SHA1</summary>6f036460d361ce1e645bba365a72be2eed35ec01</details>  |  [Link](https://piston-data.mojang.com/v1/objects/50203a07ba97b3ce9e61cbaa3cadb5b40ee8e160/server.txt)<br><details><summary>SHA1</summary>50203a07ba97b3ce9e61cbaa3cadb5b40ee8e160</details>  |
 | 24w11a | snapshot |  [Link](https://piston-data.mojang.com/v1/objects/00cab0438130dc3e6ae91f53387bb96ae7986d31/server.jar)<br><details><summary>SHA1</summary>00cab0438130dc3e6ae91f53387bb96ae7986d31</details>  |  [Link](https://piston-data.mojang.com/v1/objects/a5e08ee736fb987f2920b98d25961245aac087bc/server.txt)<br><details><summary>SHA1</summary>a5e08ee736fb987f2920b98d25961245aac087bc</details>  |
