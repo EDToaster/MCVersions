@@ -1,4 +1,4 @@
-# Minecraft Server Links (1.20.5/1.20.6-rc1)
+# Minecraft Server Links (1.20.6/1.20.6)
 
 [![AutoUpdater](https://github.com/EDToaster/MCVersions/actions/workflows/main.yml/badge.svg)](https://github.com/EDToaster/MCVersions/actions/workflows/main.yml)
 
@@ -6,6 +6,7 @@ Here are all of the available Minecraft server links, as well as the server mapp
 
 | Version | Release Type | Server | Server Mappings |
 |---|---|---|---|
+| 1.20.6 | release |  [Link](https://piston-data.mojang.com/v1/objects/145ff0858209bcfc164859ba735d4199aafa1eea/server.jar)<br><details><summary>SHA1</summary>145ff0858209bcfc164859ba735d4199aafa1eea</details>  |  [Link](https://piston-data.mojang.com/v1/objects/9e96100f573a46ef44caab3e716d5eb974594bb7/server.txt)<br><details><summary>SHA1</summary>9e96100f573a46ef44caab3e716d5eb974594bb7</details>  |
 | 1.20.6-rc1 | snapshot |  [Link](https://piston-data.mojang.com/v1/objects/a9b9c22721ec3ac516627f30554f21ed7c23efe5/server.jar)<br><details><summary>SHA1</summary>a9b9c22721ec3ac516627f30554f21ed7c23efe5</details>  |  [Link](https://piston-data.mojang.com/v1/objects/df5804bd8047f3013e056e139f75e261c35d3cad/server.txt)<br><details><summary>SHA1</summary>df5804bd8047f3013e056e139f75e261c35d3cad</details>  |
 | 1.20.5 | release |  [Link](https://piston-data.mojang.com/v1/objects/79493072f65e17243fd36a699c9a96b4381feb91/server.jar)<br><details><summary>SHA1</summary>79493072f65e17243fd36a699c9a96b4381feb91</details>  |  [Link](https://piston-data.mojang.com/v1/objects/14be97974a77b09eb8bca88ed9268445f0fde3e7/server.txt)<br><details><summary>SHA1</summary>14be97974a77b09eb8bca88ed9268445f0fde3e7</details>  |
 | 1.20.5-rc3 | snapshot |  [Link](https://piston-data.mojang.com/v1/objects/7d735a8eda6797ed196141b76e96b46546bde091/server.jar)<br><details><summary>SHA1</summary>7d735a8eda6797ed196141b76e96b46546bde091</details>  |  [Link](https://piston-data.mojang.com/v1/objects/e51c643f340fdd8e00932d2f08712122ef8df1d8/server.txt)<br><details><summary>SHA1</summary>e51c643f340fdd8e00932d2f08712122ef8df1d8</details>  |
