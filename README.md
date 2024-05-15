@@ -1,4 +1,4 @@
-# Minecraft Server Links (1.20.6/24w19b)
+# Minecraft Server Links (1.20.6/24w20a)
 
 [![AutoUpdater](https://github.com/EDToaster/MCVersions/actions/workflows/main.yml/badge.svg)](https://github.com/EDToaster/MCVersions/actions/workflows/main.yml)
 
@@ -6,6 +6,7 @@ Here are all of the available Minecraft server links, as well as the server mapp
 
 | Version | Release Type | Server | Server Mappings |
 |---|---|---|---|
+| 24w20a | snapshot |  [Link](https://piston-data.mojang.com/v1/objects/e3b1bcc2d7a09b6f1acfef7090ee64409feb3b94/server.jar)<br><details><summary>SHA1</summary>e3b1bcc2d7a09b6f1acfef7090ee64409feb3b94</details>  |  [Link](https://piston-data.mojang.com/v1/objects/35dc942cb3328dd856ee3961642f5500e069e98f/server.txt)<br><details><summary>SHA1</summary>35dc942cb3328dd856ee3961642f5500e069e98f</details>  |
 | 24w19b | snapshot |  [Link](https://piston-data.mojang.com/v1/objects/447bfe84875399d44d383de7f534e1cc10bae9a5/server.jar)<br><details><summary>SHA1</summary>447bfe84875399d44d383de7f534e1cc10bae9a5</details>  |  [Link](https://piston-data.mojang.com/v1/objects/410ba00e774a4ded12651b77322259b70ad21bbf/server.txt)<br><details><summary>SHA1</summary>410ba00e774a4ded12651b77322259b70ad21bbf</details>  |
 | 24w19a | snapshot |  [Link](https://piston-data.mojang.com/v1/objects/8088cca48fece804d29b368ab5bbcc27a540456c/server.jar)<br><details><summary>SHA1</summary>8088cca48fece804d29b368ab5bbcc27a540456c</details>  |  [Link](https://piston-data.mojang.com/v1/objects/9d799a9d897cf54d9bd3ea4964e77113da1c8ca9/server.txt)<br><details><summary>SHA1</summary>9d799a9d897cf54d9bd3ea4964e77113da1c8ca9</details>  |
 | 24w18a | snapshot |  [Link](https://piston-data.mojang.com/v1/objects/22618c686c86be630601e5d9fcf581674105c899/server.jar)<br><details><summary>SHA1</summary>22618c686c86be630601e5d9fcf581674105c899</details>  |  [Link](https://piston-data.mojang.com/v1/objects/0469fa703be270956360ee9a9d08f4473a939d7b/server.txt)<br><details><summary>SHA1</summary>0469fa703be270956360ee9a9d08f4473a939d7b</details>  |
