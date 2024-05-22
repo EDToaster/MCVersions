@@ -1,4 +1,4 @@
-# Minecraft Server Links (1.20.6/24w21a)
+# Minecraft Server Links (1.20.6/24w21b)
 
 [![AutoUpdater](https://github.com/EDToaster/MCVersions/actions/workflows/main.yml/badge.svg)](https://github.com/EDToaster/MCVersions/actions/workflows/main.yml)
 
@@ -6,6 +6,7 @@ Here are all of the available Minecraft server links, as well as the server mapp
 
 | Version | Release Type | Server | Server Mappings |
 |---|---|---|---|
+| 24w21b | snapshot |  [Link](https://piston-data.mojang.com/v1/objects/743d74805b64f83052fe449993f42182f76b129e/server.jar)<br><details><summary>SHA1</summary>743d74805b64f83052fe449993f42182f76b129e</details>  |  [Link](https://piston-data.mojang.com/v1/objects/1bc4cba6e5a4ecb769110a2e310f91fe299aed79/server.txt)<br><details><summary>SHA1</summary>1bc4cba6e5a4ecb769110a2e310f91fe299aed79</details>  |
 | 24w21a | snapshot |  [Link](https://piston-data.mojang.com/v1/objects/6ba7192e60bedb3ff02db3c57b75f7ea56c63242/server.jar)<br><details><summary>SHA1</summary>6ba7192e60bedb3ff02db3c57b75f7ea56c63242</details>  |  [Link](https://piston-data.mojang.com/v1/objects/69fd349bdd8ca1c79e57240e8eae9550d25565fd/server.txt)<br><details><summary>SHA1</summary>69fd349bdd8ca1c79e57240e8eae9550d25565fd</details>  |
 | 24w20a | snapshot |  [Link](https://piston-data.mojang.com/v1/objects/e3b1bcc2d7a09b6f1acfef7090ee64409feb3b94/server.jar)<br><details><summary>SHA1</summary>e3b1bcc2d7a09b6f1acfef7090ee64409feb3b94</details>  |  [Link](https://piston-data.mojang.com/v1/objects/35dc942cb3328dd856ee3961642f5500e069e98f/server.txt)<br><details><summary>SHA1</summary>35dc942cb3328dd856ee3961642f5500e069e98f</details>  |
 | 24w19b | snapshot |  [Link](https://piston-data.mojang.com/v1/objects/447bfe84875399d44d383de7f534e1cc10bae9a5/server.jar)<br><details><summary>SHA1</summary>447bfe84875399d44d383de7f534e1cc10bae9a5</details>  |  [Link](https://piston-data.mojang.com/v1/objects/410ba00e774a4ded12651b77322259b70ad21bbf/server.txt)<br><details><summary>SHA1</summary>410ba00e774a4ded12651b77322259b70ad21bbf</details>  |
