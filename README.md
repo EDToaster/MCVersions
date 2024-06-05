@@ -1,4 +1,4 @@
-# Minecraft Server Links (1.20.6/1.21-pre2)
+# Minecraft Server Links (1.20.6/1.21-pre3)
 
 [![AutoUpdater](https://github.com/EDToaster/MCVersions/actions/workflows/main.yml/badge.svg)](https://github.com/EDToaster/MCVersions/actions/workflows/main.yml)
 
@@ -6,6 +6,7 @@ Here are all of the available Minecraft server links, as well as the server mapp
 
 | Version | Release Type | Server | Server Mappings |
 |---|---|---|---|
+| 1.21-pre3 | snapshot |  [Link](https://piston-data.mojang.com/v1/objects/96266e18a95faa1c785ac852315e886d0e8bb174/server.jar)<br><details><summary>SHA1</summary>96266e18a95faa1c785ac852315e886d0e8bb174</details>  |  [Link](https://piston-data.mojang.com/v1/objects/c9f12b8c90d831b78fcc94cb596e2afe5ccedfb5/server.txt)<br><details><summary>SHA1</summary>c9f12b8c90d831b78fcc94cb596e2afe5ccedfb5</details>  |
 | 1.21-pre2 | snapshot |  [Link](https://piston-data.mojang.com/v1/objects/3a8da3a1afcfb09d701fa17e405d09cd0c635748/server.jar)<br><details><summary>SHA1</summary>3a8da3a1afcfb09d701fa17e405d09cd0c635748</details>  |  [Link](https://piston-data.mojang.com/v1/objects/eb1bc400425b5010ab7d2063cec8281323fea6c6/server.txt)<br><details><summary>SHA1</summary>eb1bc400425b5010ab7d2063cec8281323fea6c6</details>  |
 | 1.21-pre1 | snapshot |  [Link](https://piston-data.mojang.com/v1/objects/57e59ee5d8bc6ce664a7d76de45f8df9c110381f/server.jar)<br><details><summary>SHA1</summary>57e59ee5d8bc6ce664a7d76de45f8df9c110381f</details>  |  [Link](https://piston-data.mojang.com/v1/objects/2b9d7fcf2e9b48fe9a00a08dfcbdadfc50b76dda/server.txt)<br><details><summary>SHA1</summary>2b9d7fcf2e9b48fe9a00a08dfcbdadfc50b76dda</details>  |
 | 24w21b | snapshot |  [Link](https://piston-data.mojang.com/v1/objects/743d74805b64f83052fe449993f42182f76b129e/server.jar)<br><details><summary>SHA1</summary>743d74805b64f83052fe449993f42182f76b129e</details>  |  [Link](https://piston-data.mojang.com/v1/objects/1bc4cba6e5a4ecb769110a2e310f91fe299aed79/server.txt)<br><details><summary>SHA1</summary>1bc4cba6e5a4ecb769110a2e310f91fe299aed79</details>  |
