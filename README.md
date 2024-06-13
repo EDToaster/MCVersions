@@ -1,4 +1,4 @@
-# Minecraft Server Links (1.20.6/1.21-rc1)
+# Minecraft Server Links (1.21/1.21)
 
 [![AutoUpdater](https://github.com/EDToaster/MCVersions/actions/workflows/main.yml/badge.svg)](https://github.com/EDToaster/MCVersions/actions/workflows/main.yml)
 
@@ -6,6 +6,7 @@ Here are all of the available Minecraft server links, as well as the server mapp
 
 | Version | Release Type | Server | Server Mappings |
 |---|---|---|---|
+| 1.21 | release |  [Link](https://piston-data.mojang.com/v1/objects/450698d1863ab5180c25d7c804ef0fe6369dd1ba/server.jar)<br><details><summary>SHA1</summary>450698d1863ab5180c25d7c804ef0fe6369dd1ba</details>  |  [Link](https://piston-data.mojang.com/v1/objects/31c77994d96f05ba25a870ada70f47f315330437/server.txt)<br><details><summary>SHA1</summary>31c77994d96f05ba25a870ada70f47f315330437</details>  |
 | 1.21-rc1 | snapshot |  [Link](https://piston-data.mojang.com/v1/objects/902101d2fb0f968b9c0ddb8b8cff9afef23f72c7/server.jar)<br><details><summary>SHA1</summary>902101d2fb0f968b9c0ddb8b8cff9afef23f72c7</details>  |  [Link](https://piston-data.mojang.com/v1/objects/093e3861501df8cf22535ab79d66ba3b726fc391/server.txt)<br><details><summary>SHA1</summary>093e3861501df8cf22535ab79d66ba3b726fc391</details>  |
 | 1.21-pre4 | snapshot |  [Link](https://piston-data.mojang.com/v1/objects/14b1a86d9fcfc82c013e82910e8209617c3a721e/server.jar)<br><details><summary>SHA1</summary>14b1a86d9fcfc82c013e82910e8209617c3a721e</details>  |  [Link](https://piston-data.mojang.com/v1/objects/97b1af3669ec84fc8a690ef3f208d308ae4aa8bb/server.txt)<br><details><summary>SHA1</summary>97b1af3669ec84fc8a690ef3f208d308ae4aa8bb</details>  |
 | 1.21-pre3 | snapshot |  [Link](https://piston-data.mojang.com/v1/objects/96266e18a95faa1c785ac852315e886d0e8bb174/server.jar)<br><details><summary>SHA1</summary>96266e18a95faa1c785ac852315e886d0e8bb174</details>  |  [Link](https://piston-data.mojang.com/v1/objects/c9f12b8c90d831b78fcc94cb596e2afe5ccedfb5/server.txt)<br><details><summary>SHA1</summary>c9f12b8c90d831b78fcc94cb596e2afe5ccedfb5</details>  |
