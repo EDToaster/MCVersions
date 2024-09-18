@@ -1,4 +1,4 @@
-# Minecraft Server Links (1.21.1/24w37a)
+# Minecraft Server Links (1.21.1/24w38a)
 
 [![AutoUpdater](https://github.com/EDToaster/MCVersions/actions/workflows/main.yml/badge.svg)](https://github.com/EDToaster/MCVersions/actions/workflows/main.yml)
 
@@ -6,6 +6,7 @@ Here are all of the available Minecraft server links, as well as the server mapp
 
 | Version | Release Type | Server | Server Mappings |
 |---|---|---|---|
+| 24w38a | snapshot |  [Link](https://piston-data.mojang.com/v1/objects/b87bfc3763d88a1364b8ac30fe6f2ac3550948f8/server.jar)<br><details><summary>SHA1</summary>b87bfc3763d88a1364b8ac30fe6f2ac3550948f8</details>  |  [Link](https://piston-data.mojang.com/v1/objects/725600a10665e9d0668a7b6a0886a66ac1cddac3/server.txt)<br><details><summary>SHA1</summary>725600a10665e9d0668a7b6a0886a66ac1cddac3</details>  |
 | 24w37a | snapshot |  [Link](https://piston-data.mojang.com/v1/objects/4ba5f8917ac400474751b6e0f20d311d3b726fe7/server.jar)<br><details><summary>SHA1</summary>4ba5f8917ac400474751b6e0f20d311d3b726fe7</details>  |  [Link](https://piston-data.mojang.com/v1/objects/67b788a9ce161c044c63cf2ae611412a64cd9111/server.txt)<br><details><summary>SHA1</summary>67b788a9ce161c044c63cf2ae611412a64cd9111</details>  |
 | 24w36a | snapshot |  [Link](https://piston-data.mojang.com/v1/objects/30663a50aaf407751ae9e704758364ed9433206d/server.jar)<br><details><summary>SHA1</summary>30663a50aaf407751ae9e704758364ed9433206d</details>  |  [Link](https://piston-data.mojang.com/v1/objects/7124c6d09c711626b75d2e45c2f8d82e7fe70bbf/server.txt)<br><details><summary>SHA1</summary>7124c6d09c711626b75d2e45c2f8d82e7fe70bbf</details>  |
 | 24w35a | snapshot |  [Link](https://piston-data.mojang.com/v1/objects/93d259fdba93aa7d3c1763cfb0136295087e0de3/server.jar)<br><details><summary>SHA1</summary>93d259fdba93aa7d3c1763cfb0136295087e0de3</details>  |  [Link](https://piston-data.mojang.com/v1/objects/df0bf2c451408f0add7440923142212574d5e0d3/server.txt)<br><details><summary>SHA1</summary>df0bf2c451408f0add7440923142212574d5e0d3</details>  |
