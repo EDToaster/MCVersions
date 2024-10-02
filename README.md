@@ -1,4 +1,4 @@
-# Minecraft Server Links (1.21.1/24w39a)
+# Minecraft Server Links (1.21.1/24w40a)
 
 [![AutoUpdater](https://github.com/EDToaster/MCVersions/actions/workflows/main.yml/badge.svg)](https://github.com/EDToaster/MCVersions/actions/workflows/main.yml)
 
@@ -6,6 +6,7 @@ Here are all of the available Minecraft server links, as well as the server mapp
 
 | Version | Release Type | Server | Server Mappings |
 |---|---|---|---|
+| 24w40a | snapshot |  [Link](https://piston-data.mojang.com/v1/objects/2e2e224520156be9bc7c76be8158af9825d873d9/server.jar)<br><details><summary>SHA1</summary>2e2e224520156be9bc7c76be8158af9825d873d9</details>  |  [Link](https://piston-data.mojang.com/v1/objects/80da36d7f08272f009b710e8ebcbba4089732c79/server.txt)<br><details><summary>SHA1</summary>80da36d7f08272f009b710e8ebcbba4089732c79</details>  |
 | 24w39a | snapshot |  [Link](https://piston-data.mojang.com/v1/objects/31bc8a4f3c73e3873f4a0d42e7c65a7ae43cc44a/server.jar)<br><details><summary>SHA1</summary>31bc8a4f3c73e3873f4a0d42e7c65a7ae43cc44a</details>  |  [Link](https://piston-data.mojang.com/v1/objects/3b9c91614ac343e0a244eaefb87f10733965cd4f/server.txt)<br><details><summary>SHA1</summary>3b9c91614ac343e0a244eaefb87f10733965cd4f</details>  |
 | 24w38a | snapshot |  [Link](https://piston-data.mojang.com/v1/objects/b87bfc3763d88a1364b8ac30fe6f2ac3550948f8/server.jar)<br><details><summary>SHA1</summary>b87bfc3763d88a1364b8ac30fe6f2ac3550948f8</details>  |  [Link](https://piston-data.mojang.com/v1/objects/725600a10665e9d0668a7b6a0886a66ac1cddac3/server.txt)<br><details><summary>SHA1</summary>725600a10665e9d0668a7b6a0886a66ac1cddac3</details>  |
 | 24w37a | snapshot |  [Link](https://piston-data.mojang.com/v1/objects/4ba5f8917ac400474751b6e0f20d311d3b726fe7/server.jar)<br><details><summary>SHA1</summary>4ba5f8917ac400474751b6e0f20d311d3b726fe7</details>  |  [Link](https://piston-data.mojang.com/v1/objects/67b788a9ce161c044c63cf2ae611412a64cd9111/server.txt)<br><details><summary>SHA1</summary>67b788a9ce161c044c63cf2ae611412a64cd9111</details>  |
