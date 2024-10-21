@@ -1,4 +1,4 @@
-# Minecraft Server Links (1.21.1/1.21.2-rc1)
+# Minecraft Server Links (1.21.1/1.21.2-rc2)
 
 [![AutoUpdater](https://github.com/EDToaster/MCVersions/actions/workflows/main.yml/badge.svg)](https://github.com/EDToaster/MCVersions/actions/workflows/main.yml)
 
@@ -6,6 +6,7 @@ Here are all of the available Minecraft server links, as well as the server mapp
 
 | Version | Release Type | Server | Server Mappings |
 |---|---|---|---|
+| 1.21.2-rc2 | snapshot |  [Link](https://piston-data.mojang.com/v1/objects/d0601b3f493bb5b4e421ef35b676d4cb9c1f606f/server.jar)<br><details><summary>SHA1</summary>d0601b3f493bb5b4e421ef35b676d4cb9c1f606f</details>  |  [Link](https://piston-data.mojang.com/v1/objects/95d2eba815ebfc79d593d87955fdf06fee7f657e/server.txt)<br><details><summary>SHA1</summary>95d2eba815ebfc79d593d87955fdf06fee7f657e</details>  |
 | 1.21.2-rc1 | snapshot |  [Link](https://piston-data.mojang.com/v1/objects/8db23b5e87d998956ac5b9a5d94d1b4db4b9ea44/server.jar)<br><details><summary>SHA1</summary>8db23b5e87d998956ac5b9a5d94d1b4db4b9ea44</details>  |  [Link](https://piston-data.mojang.com/v1/objects/2481c8875a314825d2257c050f3afb847a2cbbf0/server.txt)<br><details><summary>SHA1</summary>2481c8875a314825d2257c050f3afb847a2cbbf0</details>  |
 | 1.21.2-pre5 | snapshot |  [Link](https://piston-data.mojang.com/v1/objects/c3294c5538c63aaa744313c8b98276bb26490a85/server.jar)<br><details><summary>SHA1</summary>c3294c5538c63aaa744313c8b98276bb26490a85</details>  |  [Link](https://piston-data.mojang.com/v1/objects/f6f54d27a935274a2e61139cb5f894339dd6f489/server.txt)<br><details><summary>SHA1</summary>f6f54d27a935274a2e61139cb5f894339dd6f489</details>  |
 | 1.21.2-pre4 | snapshot |  [Link](https://piston-data.mojang.com/v1/objects/aed86bb19e8fb39147c9a4534ab5e2b94fa569ea/server.jar)<br><details><summary>SHA1</summary>aed86bb19e8fb39147c9a4534ab5e2b94fa569ea</details>  |  [Link](https://piston-data.mojang.com/v1/objects/257bbe90bb18a56c2b05a4c7c77fbf46fe0c7d09/server.txt)<br><details><summary>SHA1</summary>257bbe90bb18a56c2b05a4c7c77fbf46fe0c7d09</details>  |
@@ -683,8 +684,8 @@ Here are all of the available Minecraft server links, as well as the server mapp
 | 13w38b | snapshot |  [Link](https://launcher.mojang.com/v1/objects/82588f79a6a61c4c4289a9dc60b7b7b3fedaead9/server.jar)<br><details><summary>SHA1</summary>82588f79a6a61c4c4289a9dc60b7b7b3fedaead9</details>  |  Missing  |
 | 13w38a | snapshot |  [Link](https://launcher.mojang.com/v1/objects/627585cdb9386e7f05cdfb8f092e5a303d4fd5f3/server.jar)<br><details><summary>SHA1</summary>627585cdb9386e7f05cdfb8f092e5a303d4fd5f3</details>  |  Missing  |
 | 1.6.4 | release |  [Link](https://launcher.mojang.com/v1/objects/050f93c1f3fe9e2052398f7bd6aca10c63d64a87/server.jar)<br><details><summary>SHA1</summary>050f93c1f3fe9e2052398f7bd6aca10c63d64a87</details>  |  Missing  |
-| 1.6.3 | snapshot |  [Link](https://launcher.mojang.com/v1/objects/5a4c69bdf7c4a9aa9580096805d8497ba7721e05/server.jar)<br><details><summary>SHA1</summary>5a4c69bdf7c4a9aa9580096805d8497ba7721e05</details>  |  Missing  |
 | 13w37b | snapshot |  [Link](https://launcher.mojang.com/v1/objects/f6322a6791bbeabac94cbaa1cf9b779ad88b120f/server.jar)<br><details><summary>SHA1</summary>f6322a6791bbeabac94cbaa1cf9b779ad88b120f</details>  |  Missing  |
+| 1.6.3 | snapshot |  [Link](https://launcher.mojang.com/v1/objects/5a4c69bdf7c4a9aa9580096805d8497ba7721e05/server.jar)<br><details><summary>SHA1</summary>5a4c69bdf7c4a9aa9580096805d8497ba7721e05</details>  |  Missing  |
 | 13w37a | snapshot |  [Link](https://launcher.mojang.com/v1/objects/c3d3d936394b35f20b871b140f5a8e6079822e51/server.jar)<br><details><summary>SHA1</summary>c3d3d936394b35f20b871b140f5a8e6079822e51</details>  |  Missing  |
 | 13w36b | snapshot |  [Link](https://launcher.mojang.com/v1/objects/2b6cdcd2df82ca8f04c1c2c7d77faf4cd25151ea/server.jar)<br><details><summary>SHA1</summary>2b6cdcd2df82ca8f04c1c2c7d77faf4cd25151ea</details>  |  Missing  |
 | 13w36a | snapshot |  [Link](https://launcher.mojang.com/v1/objects/8453f031175bac1a92db000befd14f70c8df8fb7/server.jar)<br><details><summary>SHA1</summary>8453f031175bac1a92db000befd14f70c8df8fb7</details>  |  Missing  |
