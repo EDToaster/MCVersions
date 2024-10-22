@@ -1,4 +1,4 @@
-# Minecraft Server Links (1.21.1/1.21.2-rc2)
+# Minecraft Server Links (1.21.2/1.21.2)
 
 [![AutoUpdater](https://github.com/EDToaster/MCVersions/actions/workflows/main.yml/badge.svg)](https://github.com/EDToaster/MCVersions/actions/workflows/main.yml)
 
@@ -6,6 +6,7 @@ Here are all of the available Minecraft server links, as well as the server mapp
 
 | Version | Release Type | Server | Server Mappings |
 |---|---|---|---|
+| 1.21.2 | release |  [Link](https://piston-data.mojang.com/v1/objects/7bf95409b0d9b5388bfea3704ec92012d273c14c/server.jar)<br><details><summary>SHA1</summary>7bf95409b0d9b5388bfea3704ec92012d273c14c</details>  |  [Link](https://piston-data.mojang.com/v1/objects/ce1d4ab050af87c41fc3d51050ef6862385da784/server.txt)<br><details><summary>SHA1</summary>ce1d4ab050af87c41fc3d51050ef6862385da784</details>  |
 | 1.21.2-rc2 | snapshot |  [Link](https://piston-data.mojang.com/v1/objects/d0601b3f493bb5b4e421ef35b676d4cb9c1f606f/server.jar)<br><details><summary>SHA1</summary>d0601b3f493bb5b4e421ef35b676d4cb9c1f606f</details>  |  [Link](https://piston-data.mojang.com/v1/objects/95d2eba815ebfc79d593d87955fdf06fee7f657e/server.txt)<br><details><summary>SHA1</summary>95d2eba815ebfc79d593d87955fdf06fee7f657e</details>  |
 | 1.21.2-rc1 | snapshot |  [Link](https://piston-data.mojang.com/v1/objects/8db23b5e87d998956ac5b9a5d94d1b4db4b9ea44/server.jar)<br><details><summary>SHA1</summary>8db23b5e87d998956ac5b9a5d94d1b4db4b9ea44</details>  |  [Link](https://piston-data.mojang.com/v1/objects/2481c8875a314825d2257c050f3afb847a2cbbf0/server.txt)<br><details><summary>SHA1</summary>2481c8875a314825d2257c050f3afb847a2cbbf0</details>  |
 | 1.21.2-pre5 | snapshot |  [Link](https://piston-data.mojang.com/v1/objects/c3294c5538c63aaa744313c8b98276bb26490a85/server.jar)<br><details><summary>SHA1</summary>c3294c5538c63aaa744313c8b98276bb26490a85</details>  |  [Link](https://piston-data.mojang.com/v1/objects/f6f54d27a935274a2e61139cb5f894339dd6f489/server.txt)<br><details><summary>SHA1</summary>f6f54d27a935274a2e61139cb5f894339dd6f489</details>  |
