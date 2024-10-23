@@ -1,4 +1,4 @@
-# Minecraft Server Links (1.21.2/1.21.2)
+# Minecraft Server Links (1.21.3/1.21.3)
 
 [![AutoUpdater](https://github.com/EDToaster/MCVersions/actions/workflows/main.yml/badge.svg)](https://github.com/EDToaster/MCVersions/actions/workflows/main.yml)
 
@@ -6,6 +6,7 @@ Here are all of the available Minecraft server links, as well as the server mapp
 
 | Version | Release Type | Server | Server Mappings |
 |---|---|---|---|
+| 1.21.3 | release |  [Link](https://piston-data.mojang.com/v1/objects/45810d238246d90e811d896f87b14695b7fb6839/server.jar)<br><details><summary>SHA1</summary>45810d238246d90e811d896f87b14695b7fb6839</details>  |  [Link](https://piston-data.mojang.com/v1/objects/c70e10f72ea65bb97e156143fd97c852dc958325/server.txt)<br><details><summary>SHA1</summary>c70e10f72ea65bb97e156143fd97c852dc958325</details>  |
 | 1.21.2 | release |  [Link](https://piston-data.mojang.com/v1/objects/7bf95409b0d9b5388bfea3704ec92012d273c14c/server.jar)<br><details><summary>SHA1</summary>7bf95409b0d9b5388bfea3704ec92012d273c14c</details>  |  [Link](https://piston-data.mojang.com/v1/objects/ce1d4ab050af87c41fc3d51050ef6862385da784/server.txt)<br><details><summary>SHA1</summary>ce1d4ab050af87c41fc3d51050ef6862385da784</details>  |
 | 1.21.2-rc2 | snapshot |  [Link](https://piston-data.mojang.com/v1/objects/d0601b3f493bb5b4e421ef35b676d4cb9c1f606f/server.jar)<br><details><summary>SHA1</summary>d0601b3f493bb5b4e421ef35b676d4cb9c1f606f</details>  |  [Link](https://piston-data.mojang.com/v1/objects/95d2eba815ebfc79d593d87955fdf06fee7f657e/server.txt)<br><details><summary>SHA1</summary>95d2eba815ebfc79d593d87955fdf06fee7f657e</details>  |
 | 1.21.2-rc1 | snapshot |  [Link](https://piston-data.mojang.com/v1/objects/8db23b5e87d998956ac5b9a5d94d1b4db4b9ea44/server.jar)<br><details><summary>SHA1</summary>8db23b5e87d998956ac5b9a5d94d1b4db4b9ea44</details>  |  [Link](https://piston-data.mojang.com/v1/objects/2481c8875a314825d2257c050f3afb847a2cbbf0/server.txt)<br><details><summary>SHA1</summary>2481c8875a314825d2257c050f3afb847a2cbbf0</details>  |
@@ -685,8 +686,8 @@ Here are all of the available Minecraft server links, as well as the server mapp
 | 13w38b | snapshot |  [Link](https://launcher.mojang.com/v1/objects/82588f79a6a61c4c4289a9dc60b7b7b3fedaead9/server.jar)<br><details><summary>SHA1</summary>82588f79a6a61c4c4289a9dc60b7b7b3fedaead9</details>  |  Missing  |
 | 13w38a | snapshot |  [Link](https://launcher.mojang.com/v1/objects/627585cdb9386e7f05cdfb8f092e5a303d4fd5f3/server.jar)<br><details><summary>SHA1</summary>627585cdb9386e7f05cdfb8f092e5a303d4fd5f3</details>  |  Missing  |
 | 1.6.4 | release |  [Link](https://launcher.mojang.com/v1/objects/050f93c1f3fe9e2052398f7bd6aca10c63d64a87/server.jar)<br><details><summary>SHA1</summary>050f93c1f3fe9e2052398f7bd6aca10c63d64a87</details>  |  Missing  |
-| 13w37b | snapshot |  [Link](https://launcher.mojang.com/v1/objects/f6322a6791bbeabac94cbaa1cf9b779ad88b120f/server.jar)<br><details><summary>SHA1</summary>f6322a6791bbeabac94cbaa1cf9b779ad88b120f</details>  |  Missing  |
 | 1.6.3 | snapshot |  [Link](https://launcher.mojang.com/v1/objects/5a4c69bdf7c4a9aa9580096805d8497ba7721e05/server.jar)<br><details><summary>SHA1</summary>5a4c69bdf7c4a9aa9580096805d8497ba7721e05</details>  |  Missing  |
+| 13w37b | snapshot |  [Link](https://launcher.mojang.com/v1/objects/f6322a6791bbeabac94cbaa1cf9b779ad88b120f/server.jar)<br><details><summary>SHA1</summary>f6322a6791bbeabac94cbaa1cf9b779ad88b120f</details>  |  Missing  |
 | 13w37a | snapshot |  [Link](https://launcher.mojang.com/v1/objects/c3d3d936394b35f20b871b140f5a8e6079822e51/server.jar)<br><details><summary>SHA1</summary>c3d3d936394b35f20b871b140f5a8e6079822e51</details>  |  Missing  |
 | 13w36b | snapshot |  [Link](https://launcher.mojang.com/v1/objects/2b6cdcd2df82ca8f04c1c2c7d77faf4cd25151ea/server.jar)<br><details><summary>SHA1</summary>2b6cdcd2df82ca8f04c1c2c7d77faf4cd25151ea</details>  |  Missing  |
 | 13w36a | snapshot |  [Link](https://launcher.mojang.com/v1/objects/8453f031175bac1a92db000befd14f70c8df8fb7/server.jar)<br><details><summary>SHA1</summary>8453f031175bac1a92db000befd14f70c8df8fb7</details>  |  Missing  |
