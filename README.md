@@ -1,4 +1,4 @@
-# Minecraft Server Links (1.21.3/1.21.3)
+# Minecraft Server Links (1.21.3/24w44a)
 
 [![AutoUpdater](https://github.com/EDToaster/MCVersions/actions/workflows/main.yml/badge.svg)](https://github.com/EDToaster/MCVersions/actions/workflows/main.yml)
 
@@ -6,6 +6,7 @@ Here are all of the available Minecraft server links, as well as the server mapp
 
 | Version | Release Type | Server | Server Mappings |
 |---|---|---|---|
+| 24w44a | snapshot |  [Link](https://piston-data.mojang.com/v1/objects/5d233307681e1b46dfd4fba4f022c1cac2b58e60/server.jar)<br><details><summary>SHA1</summary>5d233307681e1b46dfd4fba4f022c1cac2b58e60</details>  |  [Link](https://piston-data.mojang.com/v1/objects/806da59843f891c5622ef25d05be54daf602fd51/server.txt)<br><details><summary>SHA1</summary>806da59843f891c5622ef25d05be54daf602fd51</details>  |
 | 1.21.3 | release |  [Link](https://piston-data.mojang.com/v1/objects/45810d238246d90e811d896f87b14695b7fb6839/server.jar)<br><details><summary>SHA1</summary>45810d238246d90e811d896f87b14695b7fb6839</details>  |  [Link](https://piston-data.mojang.com/v1/objects/c70e10f72ea65bb97e156143fd97c852dc958325/server.txt)<br><details><summary>SHA1</summary>c70e10f72ea65bb97e156143fd97c852dc958325</details>  |
 | 1.21.2 | release |  [Link](https://piston-data.mojang.com/v1/objects/7bf95409b0d9b5388bfea3704ec92012d273c14c/server.jar)<br><details><summary>SHA1</summary>7bf95409b0d9b5388bfea3704ec92012d273c14c</details>  |  [Link](https://piston-data.mojang.com/v1/objects/ce1d4ab050af87c41fc3d51050ef6862385da784/server.txt)<br><details><summary>SHA1</summary>ce1d4ab050af87c41fc3d51050ef6862385da784</details>  |
 | 1.21.2-rc2 | snapshot |  [Link](https://piston-data.mojang.com/v1/objects/d0601b3f493bb5b4e421ef35b676d4cb9c1f606f/server.jar)<br><details><summary>SHA1</summary>d0601b3f493bb5b4e421ef35b676d4cb9c1f606f</details>  |  [Link](https://piston-data.mojang.com/v1/objects/95d2eba815ebfc79d593d87955fdf06fee7f657e/server.txt)<br><details><summary>SHA1</summary>95d2eba815ebfc79d593d87955fdf06fee7f657e</details>  |
