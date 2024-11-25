@@ -1,4 +1,4 @@
-# Minecraft Server Links (1.21.3/1.21.4-pre1)
+# Minecraft Server Links (1.21.3/1.21.4-pre2)
 
 [![AutoUpdater](https://github.com/EDToaster/MCVersions/actions/workflows/main.yml/badge.svg)](https://github.com/EDToaster/MCVersions/actions/workflows/main.yml)
 
@@ -6,6 +6,7 @@ Here are all of the available Minecraft server links, as well as the server mapp
 
 | Version | Release Type | Server | Server Mappings |
 |---|---|---|---|
+| 1.21.4-pre2 | snapshot |  [Link](https://piston-data.mojang.com/v1/objects/0d53352b9a13a05b8c314c93418347b6ef38cc52/server.jar)<br><details><summary>SHA1</summary>0d53352b9a13a05b8c314c93418347b6ef38cc52</details>  |  [Link](https://piston-data.mojang.com/v1/objects/6448f3aa1e2ff56e5270037489b4d1a5509bb649/server.txt)<br><details><summary>SHA1</summary>6448f3aa1e2ff56e5270037489b4d1a5509bb649</details>  |
 | 1.21.4-pre1 | snapshot |  [Link](https://piston-data.mojang.com/v1/objects/4e5fdbf4ecd53962e72a75d4abfc2455e0ae0c1b/server.jar)<br><details><summary>SHA1</summary>4e5fdbf4ecd53962e72a75d4abfc2455e0ae0c1b</details>  |  [Link](https://piston-data.mojang.com/v1/objects/f1325cf376a8abb404ecc476151713547c61869f/server.txt)<br><details><summary>SHA1</summary>f1325cf376a8abb404ecc476151713547c61869f</details>  |
 | 24w46a | snapshot |  [Link](https://piston-data.mojang.com/v1/objects/9b2e96ae27afaf9a6c682c5d92d37a99da4a8d1a/server.jar)<br><details><summary>SHA1</summary>9b2e96ae27afaf9a6c682c5d92d37a99da4a8d1a</details>  |  [Link](https://piston-data.mojang.com/v1/objects/552c9c75307d928976ba92047d58fde36b2d2f0e/server.txt)<br><details><summary>SHA1</summary>552c9c75307d928976ba92047d58fde36b2d2f0e</details>  |
 | 24w45a | snapshot |  [Link](https://piston-data.mojang.com/v1/objects/8bbe822806cfdbeb9f6fc55d18fa1e8080e60047/server.jar)<br><details><summary>SHA1</summary>8bbe822806cfdbeb9f6fc55d18fa1e8080e60047</details>  |  [Link](https://piston-data.mojang.com/v1/objects/be8e5a028f506b448eb1ec71301919fec06b45d3/server.txt)<br><details><summary>SHA1</summary>be8e5a028f506b448eb1ec71301919fec06b45d3</details>  |
