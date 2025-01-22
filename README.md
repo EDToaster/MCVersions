@@ -1,4 +1,4 @@
-# Minecraft Server Links (1.21.4/25w03a)
+# Minecraft Server Links (1.21.4/25w04a)
 
 [![AutoUpdater](https://github.com/EDToaster/MCVersions/actions/workflows/main.yml/badge.svg)](https://github.com/EDToaster/MCVersions/actions/workflows/main.yml)
 
@@ -6,6 +6,7 @@ Here are all of the available Minecraft server links, as well as the server mapp
 
 | Version | Release Type | Server | Server Mappings |
 |---|---|---|---|
+| 25w04a | snapshot |  [Link](https://piston-data.mojang.com/v1/objects/28a9d30423b1c50da661b95e754be9d5f0c871d4/server.jar)<br><details><summary>SHA1</summary>28a9d30423b1c50da661b95e754be9d5f0c871d4</details>  |  [Link](https://piston-data.mojang.com/v1/objects/663d1da3dff475eb79543d40ad2f18e4cb2c7708/server.txt)<br><details><summary>SHA1</summary>663d1da3dff475eb79543d40ad2f18e4cb2c7708</details>  |
 | 25w03a | snapshot |  [Link](https://piston-data.mojang.com/v1/objects/e003d151668a0eff64c1191972707655e341f8f5/server.jar)<br><details><summary>SHA1</summary>e003d151668a0eff64c1191972707655e341f8f5</details>  |  [Link](https://piston-data.mojang.com/v1/objects/ad7bb6cf9bdb85fd561981e2c4634a9d3292592d/server.txt)<br><details><summary>SHA1</summary>ad7bb6cf9bdb85fd561981e2c4634a9d3292592d</details>  |
 | 25w02a | snapshot |  [Link](https://piston-data.mojang.com/v1/objects/d9bf4ff75df54a19c19cb4fbc37f020a734904e5/server.jar)<br><details><summary>SHA1</summary>d9bf4ff75df54a19c19cb4fbc37f020a734904e5</details>  |  [Link](https://piston-data.mojang.com/v1/objects/fea3bf04f0775c6413e0283e4398c09c38d752fa/server.txt)<br><details><summary>SHA1</summary>fea3bf04f0775c6413e0283e4398c09c38d752fa</details>  |
 | 1.21.4 | release |  [Link](https://piston-data.mojang.com/v1/objects/4707d00eb834b446575d89a61a11b5d548d8c001/server.jar)<br><details><summary>SHA1</summary>4707d00eb834b446575d89a61a11b5d548d8c001</details>  |  [Link](https://piston-data.mojang.com/v1/objects/0b1e60cc509cfb0172573ae56b436c29febbc187/server.txt)<br><details><summary>SHA1</summary>0b1e60cc509cfb0172573ae56b436c29febbc187</details>  |
