@@ -1,4 +1,4 @@
-# Minecraft Server Links (1.21.4/25w06a)
+# Minecraft Server Links (1.21.4/25w07a)
 
 [![AutoUpdater](https://github.com/EDToaster/MCVersions/actions/workflows/main.yml/badge.svg)](https://github.com/EDToaster/MCVersions/actions/workflows/main.yml)
 
@@ -6,6 +6,7 @@ Here are all of the available Minecraft server links, as well as the server mapp
 
 | Version | Release Type | Server | Server Mappings |
 |---|---|---|---|
+| 25w07a | snapshot |  [Link](https://piston-data.mojang.com/v1/objects/f264312044768694831ad285fdde1d55e2f16c92/server.jar)<br><details><summary>SHA1</summary>f264312044768694831ad285fdde1d55e2f16c92</details>  |  [Link](https://piston-data.mojang.com/v1/objects/b29591efa6c431f4d3c7c4926359fedff2b88b0c/server.txt)<br><details><summary>SHA1</summary>b29591efa6c431f4d3c7c4926359fedff2b88b0c</details>  |
 | 25w06a | snapshot |  [Link](https://piston-data.mojang.com/v1/objects/f26930e08de4a4d8a0c6b6492b97bb51e63a369d/server.jar)<br><details><summary>SHA1</summary>f26930e08de4a4d8a0c6b6492b97bb51e63a369d</details>  |  [Link](https://piston-data.mojang.com/v1/objects/5010538b82dcba402bf9e9a752891ba58f704690/server.txt)<br><details><summary>SHA1</summary>5010538b82dcba402bf9e9a752891ba58f704690</details>  |
 | 25w05a | snapshot |  [Link](https://piston-data.mojang.com/v1/objects/2c873903a90c9633dd6bd2e3501046100daceafd/server.jar)<br><details><summary>SHA1</summary>2c873903a90c9633dd6bd2e3501046100daceafd</details>  |  [Link](https://piston-data.mojang.com/v1/objects/bed2cd62c9c5cf4c173360647c577aedb65c8a1c/server.txt)<br><details><summary>SHA1</summary>bed2cd62c9c5cf4c173360647c577aedb65c8a1c</details>  |
 | 25w04a | snapshot |  [Link](https://piston-data.mojang.com/v1/objects/28a9d30423b1c50da661b95e754be9d5f0c871d4/server.jar)<br><details><summary>SHA1</summary>28a9d30423b1c50da661b95e754be9d5f0c871d4</details>  |  [Link](https://piston-data.mojang.com/v1/objects/663d1da3dff475eb79543d40ad2f18e4cb2c7708/server.txt)<br><details><summary>SHA1</summary>663d1da3dff475eb79543d40ad2f18e4cb2c7708</details>  |
