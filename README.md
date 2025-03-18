@@ -1,4 +1,4 @@
-# Minecraft Server Links (1.21.4/1.21.5-pre2)
+# Minecraft Server Links (1.21.4/1.21.5-pre3)
 
 [![AutoUpdater](https://github.com/EDToaster/MCVersions/actions/workflows/main.yml/badge.svg)](https://github.com/EDToaster/MCVersions/actions/workflows/main.yml)
 
@@ -6,6 +6,7 @@ Here are all of the available Minecraft server links, as well as the server mapp
 
 | Version | Release Type | Server | Server Mappings |
 |---|---|---|---|
+| 1.21.5-pre3 | snapshot |  [Link](https://piston-data.mojang.com/v1/objects/58ca36190d8fb3ab0b6af0fc4fa9b3604a463eac/server.jar)<br><details><summary>SHA1</summary>58ca36190d8fb3ab0b6af0fc4fa9b3604a463eac</details>  |  [Link](https://piston-data.mojang.com/v1/objects/1df3bb4f642dcc95456ee02432ad2d26cd5ad0d8/server.txt)<br><details><summary>SHA1</summary>1df3bb4f642dcc95456ee02432ad2d26cd5ad0d8</details>  |
 | 1.21.5-pre2 | snapshot |  [Link](https://piston-data.mojang.com/v1/objects/7a6ec51f9e3095a8d2406042760d2989a1e8ad2b/server.jar)<br><details><summary>SHA1</summary>7a6ec51f9e3095a8d2406042760d2989a1e8ad2b</details>  |  [Link](https://piston-data.mojang.com/v1/objects/cdfaeb62e5d35aeeaa0c648fdd8dc28309791377/server.txt)<br><details><summary>SHA1</summary>cdfaeb62e5d35aeeaa0c648fdd8dc28309791377</details>  |
 | 1.21.5-pre1 | snapshot |  [Link](https://piston-data.mojang.com/v1/objects/b663ce11b5951546a74947c1896e0d4713188833/server.jar)<br><details><summary>SHA1</summary>b663ce11b5951546a74947c1896e0d4713188833</details>  |  [Link](https://piston-data.mojang.com/v1/objects/cdfaeb62e5d35aeeaa0c648fdd8dc28309791377/server.txt)<br><details><summary>SHA1</summary>cdfaeb62e5d35aeeaa0c648fdd8dc28309791377</details>  |
 | 25w10a | snapshot |  [Link](https://piston-data.mojang.com/v1/objects/0177c3a044813dc7d10b43b14b7f47224bd43067/server.jar)<br><details><summary>SHA1</summary>0177c3a044813dc7d10b43b14b7f47224bd43067</details>  |  [Link](https://piston-data.mojang.com/v1/objects/218c144d03dfb0db51a15e4a05ff793703e5a54a/server.txt)<br><details><summary>SHA1</summary>218c144d03dfb0db51a15e4a05ff793703e5a54a</details>  |
