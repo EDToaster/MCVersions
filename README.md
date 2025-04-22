@@ -1,4 +1,4 @@
-# Minecraft Server Links (1.21.5/25w16a)
+# Minecraft Server Links (1.21.5/25w17a)
 
 [![AutoUpdater](https://github.com/EDToaster/MCVersions/actions/workflows/main.yml/badge.svg)](https://github.com/EDToaster/MCVersions/actions/workflows/main.yml)
 
@@ -6,6 +6,7 @@ Here are all of the available Minecraft server links, as well as the server mapp
 
 | Version | Release Type | Server | Server Mappings |
 |---|---|---|---|
+| 25w17a | snapshot |  [Link](https://piston-data.mojang.com/v1/objects/575756f90e54e5c2cd78997dd9e3579936aa9d6d/server.jar)<br><details><summary>SHA1</summary>575756f90e54e5c2cd78997dd9e3579936aa9d6d</details>  |  [Link](https://piston-data.mojang.com/v1/objects/78bbaacb166117d8b2f3afad82fccf8448602193/server.txt)<br><details><summary>SHA1</summary>78bbaacb166117d8b2f3afad82fccf8448602193</details>  |
 | 25w16a | snapshot |  [Link](https://piston-data.mojang.com/v1/objects/3d8223843a659d8ebc33459864ba02b34485ea11/server.jar)<br><details><summary>SHA1</summary>3d8223843a659d8ebc33459864ba02b34485ea11</details>  |  [Link](https://piston-data.mojang.com/v1/objects/7e58cbd89d19e5aef3264d64bace4cf0e355b1e1/server.txt)<br><details><summary>SHA1</summary>7e58cbd89d19e5aef3264d64bace4cf0e355b1e1</details>  |
 | 25w15a | snapshot |  [Link](https://piston-data.mojang.com/v1/objects/fed01fcdf4d2f37b3f847e08fd099714766533c3/server.jar)<br><details><summary>SHA1</summary>fed01fcdf4d2f37b3f847e08fd099714766533c3</details>  |  [Link](https://piston-data.mojang.com/v1/objects/0a5b698d19dcb090e15684e076e101d596d8fec5/server.txt)<br><details><summary>SHA1</summary>0a5b698d19dcb090e15684e076e101d596d8fec5</details>  |
 | 25w14craftmine | snapshot |  [Link](https://piston-data.mojang.com/v1/objects/4527a9019e37e001770787e4523b505f79cac4c5/server.jar)<br><details><summary>SHA1</summary>4527a9019e37e001770787e4523b505f79cac4c5</details>  |  [Link](https://piston-data.mojang.com/v1/objects/18910872683cd4ea9a9de28f3b9b68cf5d2ae99c/server.txt)<br><details><summary>SHA1</summary>18910872683cd4ea9a9de28f3b9b68cf5d2ae99c</details>  |
