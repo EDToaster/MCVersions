@@ -1,4 +1,4 @@
-# Minecraft Server Links (1.21.5/25w19a)
+# Minecraft Server Links (1.21.5/25w20a)
 
 [![AutoUpdater](https://github.com/EDToaster/MCVersions/actions/workflows/main.yml/badge.svg)](https://github.com/EDToaster/MCVersions/actions/workflows/main.yml)
 
@@ -6,6 +6,7 @@ Here are all of the available Minecraft server links, as well as the server mapp
 
 | Version | Release Type | Server | Server Mappings |
 |---|---|---|---|
+| 25w20a | snapshot |  [Link](https://piston-data.mojang.com/v1/objects/4b7a074f7813de85698c185100736fae64f9b4fa/server.jar)<br><details><summary>SHA1</summary>4b7a074f7813de85698c185100736fae64f9b4fa</details>  |  [Link](https://piston-data.mojang.com/v1/objects/c0eea925ff78036b5d63cc64ffe35d566dbf5e92/server.txt)<br><details><summary>SHA1</summary>c0eea925ff78036b5d63cc64ffe35d566dbf5e92</details>  |
 | 25w19a | snapshot |  [Link](https://piston-data.mojang.com/v1/objects/cd279a0a79fd62f41c9dd8d17d455d06ff4d8013/server.jar)<br><details><summary>SHA1</summary>cd279a0a79fd62f41c9dd8d17d455d06ff4d8013</details>  |  [Link](https://piston-data.mojang.com/v1/objects/e010893a60510007da43bcb8efb687319492e8b0/server.txt)<br><details><summary>SHA1</summary>e010893a60510007da43bcb8efb687319492e8b0</details>  |
 | 25w18a | snapshot |  [Link](https://piston-data.mojang.com/v1/objects/e69d69f1817f6c52f6ad2ca73ee1ef8a6903e560/server.jar)<br><details><summary>SHA1</summary>e69d69f1817f6c52f6ad2ca73ee1ef8a6903e560</details>  |  [Link](https://piston-data.mojang.com/v1/objects/63254635d6008f916e7db73a86ebc5c9441e1ea9/server.txt)<br><details><summary>SHA1</summary>63254635d6008f916e7db73a86ebc5c9441e1ea9</details>  |
 | 25w17a | snapshot |  [Link](https://piston-data.mojang.com/v1/objects/575756f90e54e5c2cd78997dd9e3579936aa9d6d/server.jar)<br><details><summary>SHA1</summary>575756f90e54e5c2cd78997dd9e3579936aa9d6d</details>  |  [Link](https://piston-data.mojang.com/v1/objects/78bbaacb166117d8b2f3afad82fccf8448602193/server.txt)<br><details><summary>SHA1</summary>78bbaacb166117d8b2f3afad82fccf8448602193</details>  |
