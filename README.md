@@ -1,4 +1,4 @@
-# Minecraft Server Links (1.21.5/1.21.6-pre2)
+# Minecraft Server Links (1.21.5/1.21.6-pre3)
 
 [![AutoUpdater](https://github.com/EDToaster/MCVersions/actions/workflows/main.yml/badge.svg)](https://github.com/EDToaster/MCVersions/actions/workflows/main.yml)
 
@@ -6,6 +6,7 @@ Here are all of the available Minecraft server links, as well as the server mapp
 
 | Version | Release Type | Server | Server Mappings |
 |---|---|---|---|
+| 1.21.6-pre3 | snapshot |  [Link](https://piston-data.mojang.com/v1/objects/03f53214df599b9e39a560b94d0df5636858c32f/server.jar)<br><details><summary>SHA1</summary>03f53214df599b9e39a560b94d0df5636858c32f</details>  |  [Link](https://piston-data.mojang.com/v1/objects/aaf82533aa6314413ece46ad7528374dcbe0cb85/server.txt)<br><details><summary>SHA1</summary>aaf82533aa6314413ece46ad7528374dcbe0cb85</details>  |
 | 1.21.6-pre2 | snapshot |  [Link](https://piston-data.mojang.com/v1/objects/67fcbd0cf180f7223fa52c58e5c6a7ac05145686/server.jar)<br><details><summary>SHA1</summary>67fcbd0cf180f7223fa52c58e5c6a7ac05145686</details>  |  [Link](https://piston-data.mojang.com/v1/objects/bee15a718d0dbd098600fd778faf264934488ee8/server.txt)<br><details><summary>SHA1</summary>bee15a718d0dbd098600fd778faf264934488ee8</details>  |
 | 1.21.6-pre1 | snapshot |  [Link](https://piston-data.mojang.com/v1/objects/197f0896f6bafc45b7cd1c90b88f7979dfcc99fe/server.jar)<br><details><summary>SHA1</summary>197f0896f6bafc45b7cd1c90b88f7979dfcc99fe</details>  |  [Link](https://piston-data.mojang.com/v1/objects/4a630c21cd201b7d81f957923d0e6c30174534ad/server.txt)<br><details><summary>SHA1</summary>4a630c21cd201b7d81f957923d0e6c30174534ad</details>  |
 | 25w21a | snapshot |  [Link](https://piston-data.mojang.com/v1/objects/a5f7be5d2f05250abfc49639a26f399b8a8ebb61/server.jar)<br><details><summary>SHA1</summary>a5f7be5d2f05250abfc49639a26f399b8a8ebb61</details>  |  [Link](https://piston-data.mojang.com/v1/objects/e2b7179bf376b18ad5cbcd77301f1f610da97480/server.txt)<br><details><summary>SHA1</summary>e2b7179bf376b18ad5cbcd77301f1f610da97480</details>  |
