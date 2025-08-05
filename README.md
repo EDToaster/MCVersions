@@ -1,4 +1,4 @@
-# Minecraft Server Links (1.21.8/25w31a)
+# Minecraft Server Links (1.21.8/25w32a)
 
 [![AutoUpdater](https://github.com/EDToaster/MCVersions/actions/workflows/main.yml/badge.svg)](https://github.com/EDToaster/MCVersions/actions/workflows/main.yml)
 
@@ -6,6 +6,7 @@ Here are all of the available Minecraft server links, as well as the server mapp
 
 | Version | Release Type | Server | Server Mappings |
 |---|---|---|---|
+| 25w32a | snapshot |  [Link](https://piston-data.mojang.com/v1/objects/c98a125ca315cac45bee91a7ecbc4920007ac5ff/server.jar)<br><details><summary>SHA1</summary>c98a125ca315cac45bee91a7ecbc4920007ac5ff</details>  |  [Link](https://piston-data.mojang.com/v1/objects/f7198a79c7f2863beb31089a56c11266cd2c8f69/server.txt)<br><details><summary>SHA1</summary>f7198a79c7f2863beb31089a56c11266cd2c8f69</details>  |
 | 25w31a | snapshot |  [Link](https://piston-data.mojang.com/v1/objects/b966ccab7666a9f0c8c955f022bda8c778830b99/server.jar)<br><details><summary>SHA1</summary>b966ccab7666a9f0c8c955f022bda8c778830b99</details>  |  [Link](https://piston-data.mojang.com/v1/objects/e7e8193cd5c55e2fce4c172f0c100cfbdda9c693/server.txt)<br><details><summary>SHA1</summary>e7e8193cd5c55e2fce4c172f0c100cfbdda9c693</details>  |
 | 1.21.8 | release |  [Link](https://piston-data.mojang.com/v1/objects/6bce4ef400e4efaa63a13d5e6f6b500be969ef81/server.jar)<br><details><summary>SHA1</summary>6bce4ef400e4efaa63a13d5e6f6b500be969ef81</details>  |  [Link](https://piston-data.mojang.com/v1/objects/eb1e1eb47cb740012fc82eacc394859463684132/server.txt)<br><details><summary>SHA1</summary>eb1e1eb47cb740012fc82eacc394859463684132</details>  |
 | 1.21.8-rc1 | snapshot |  [Link](https://piston-data.mojang.com/v1/objects/592535d9bcdb38db40da2d0033ce8494d1ef50d9/server.jar)<br><details><summary>SHA1</summary>592535d9bcdb38db40da2d0033ce8494d1ef50d9</details>  |  [Link](https://piston-data.mojang.com/v1/objects/a31b5e5235daad9023072d3478b6fa0f44065548/server.txt)<br><details><summary>SHA1</summary>a31b5e5235daad9023072d3478b6fa0f44065548</details>  |
