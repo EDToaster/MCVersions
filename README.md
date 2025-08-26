@@ -1,4 +1,4 @@
-# Minecraft Server Links (1.21.8/25w34b)
+# Minecraft Server Links (1.21.8/25w35a)
 
 [![AutoUpdater](https://github.com/EDToaster/MCVersions/actions/workflows/main.yml/badge.svg)](https://github.com/EDToaster/MCVersions/actions/workflows/main.yml)
 
@@ -6,6 +6,7 @@ Here are all of the available Minecraft server links, as well as the server mapp
 
 | Version | Release Type | Server | Server Mappings |
 |---|---|---|---|
+| 25w35a | snapshot |  [Link](https://piston-data.mojang.com/v1/objects/7fb6965adce075e4e6b467ca620f59c76c0f1e52/server.jar)<br><details><summary>SHA1</summary>7fb6965adce075e4e6b467ca620f59c76c0f1e52</details>  |  [Link](https://piston-data.mojang.com/v1/objects/6899b52a04c68eabf3ed5a737459967afeb650e2/server.txt)<br><details><summary>SHA1</summary>6899b52a04c68eabf3ed5a737459967afeb650e2</details>  |
 | 25w34b | snapshot |  [Link](https://piston-data.mojang.com/v1/objects/29d04ae8f7b701c55de6ca1547cc558409ea5368/server.jar)<br><details><summary>SHA1</summary>29d04ae8f7b701c55de6ca1547cc558409ea5368</details>  |  [Link](https://piston-data.mojang.com/v1/objects/d71f77fcaf3000594e16df779536acbe32b9ba97/server.txt)<br><details><summary>SHA1</summary>d71f77fcaf3000594e16df779536acbe32b9ba97</details>  |
 | 25w34a | snapshot |  [Link](https://piston-data.mojang.com/v1/objects/34b22c38c3e77b96b0b8cda26687f4b2c2a5fb72/server.jar)<br><details><summary>SHA1</summary>34b22c38c3e77b96b0b8cda26687f4b2c2a5fb72</details>  |  [Link](https://piston-data.mojang.com/v1/objects/d71f77fcaf3000594e16df779536acbe32b9ba97/server.txt)<br><details><summary>SHA1</summary>d71f77fcaf3000594e16df779536acbe32b9ba97</details>  |
 | 25w33a | snapshot |  [Link](https://piston-data.mojang.com/v1/objects/83027f72aa7957837aeeaef499c67105583d0928/server.jar)<br><details><summary>SHA1</summary>83027f72aa7957837aeeaef499c67105583d0928</details>  |  [Link](https://piston-data.mojang.com/v1/objects/503dad3066e73e0761a2ce27bc9e2a954b0df496/server.txt)<br><details><summary>SHA1</summary>503dad3066e73e0761a2ce27bc9e2a954b0df496</details>  |
