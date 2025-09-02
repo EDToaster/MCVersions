@@ -1,4 +1,4 @@
-# Minecraft Server Links (1.21.8/25w36a)
+# Minecraft Server Links (1.21.8/25w36b)
 
 [![AutoUpdater](https://github.com/EDToaster/MCVersions/actions/workflows/main.yml/badge.svg)](https://github.com/EDToaster/MCVersions/actions/workflows/main.yml)
 
@@ -6,6 +6,7 @@ Here are all of the available Minecraft server links, as well as the server mapp
 
 | Version | Release Type | Server | Server Mappings |
 |---|---|---|---|
+| 25w36b | snapshot |  [Link](https://piston-data.mojang.com/v1/objects/bb1c647e67a8e17846f7f286d86597a3c3cc47ef/server.jar)<br><details><summary>SHA1</summary>bb1c647e67a8e17846f7f286d86597a3c3cc47ef</details>  |  [Link](https://piston-data.mojang.com/v1/objects/16fbcd86b56362a06269cef21b3ad784d8264b5f/server.txt)<br><details><summary>SHA1</summary>16fbcd86b56362a06269cef21b3ad784d8264b5f</details>  |
 | 25w36a | snapshot |  [Link](https://piston-data.mojang.com/v1/objects/4d094c84219be8bbe23bcec02e1c016e12717e17/server.jar)<br><details><summary>SHA1</summary>4d094c84219be8bbe23bcec02e1c016e12717e17</details>  |  [Link](https://piston-data.mojang.com/v1/objects/16fbcd86b56362a06269cef21b3ad784d8264b5f/server.txt)<br><details><summary>SHA1</summary>16fbcd86b56362a06269cef21b3ad784d8264b5f</details>  |
 | 25w35a | snapshot |  [Link](https://piston-data.mojang.com/v1/objects/7fb6965adce075e4e6b467ca620f59c76c0f1e52/server.jar)<br><details><summary>SHA1</summary>7fb6965adce075e4e6b467ca620f59c76c0f1e52</details>  |  [Link](https://piston-data.mojang.com/v1/objects/6899b52a04c68eabf3ed5a737459967afeb650e2/server.txt)<br><details><summary>SHA1</summary>6899b52a04c68eabf3ed5a737459967afeb650e2</details>  |
 | 25w34b | snapshot |  [Link](https://piston-data.mojang.com/v1/objects/29d04ae8f7b701c55de6ca1547cc558409ea5368/server.jar)<br><details><summary>SHA1</summary>29d04ae8f7b701c55de6ca1547cc558409ea5368</details>  |  [Link](https://piston-data.mojang.com/v1/objects/d71f77fcaf3000594e16df779536acbe32b9ba97/server.txt)<br><details><summary>SHA1</summary>d71f77fcaf3000594e16df779536acbe32b9ba97</details>  |
