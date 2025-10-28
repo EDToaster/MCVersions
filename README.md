@@ -1,4 +1,4 @@
-# Minecraft Server Links (1.21.10/25w43a)
+# Minecraft Server Links (1.21.10/25w44a)
 
 [![AutoUpdater](https://github.com/EDToaster/MCVersions/actions/workflows/main.yml/badge.svg)](https://github.com/EDToaster/MCVersions/actions/workflows/main.yml)
 
@@ -6,6 +6,7 @@ Here are all of the available Minecraft server links, as well as the server mapp
 
 | Version | Release Type | Server | Server Mappings |
 |---|---|---|---|
+| 25w44a | snapshot |  [Link](https://piston-data.mojang.com/v1/objects/1ade1ebd6affbfed6dbfb2ce8864cf19efed07ba/server.jar)<br><details><summary>SHA1</summary>1ade1ebd6affbfed6dbfb2ce8864cf19efed07ba</details>  |  [Link](https://piston-data.mojang.com/v1/objects/cacf13cd11a519f28f05a9a342c6b82f20a6a5ce/server.txt)<br><details><summary>SHA1</summary>cacf13cd11a519f28f05a9a342c6b82f20a6a5ce</details>  |
 | 25w43a | snapshot |  [Link](https://piston-data.mojang.com/v1/objects/dac322a1091905430e2a6ade129a4915552455d0/server.jar)<br><details><summary>SHA1</summary>dac322a1091905430e2a6ade129a4915552455d0</details>  |  [Link](https://piston-data.mojang.com/v1/objects/2f4b171bcf237fb46692f4dc26639bf82665bea5/server.txt)<br><details><summary>SHA1</summary>2f4b171bcf237fb46692f4dc26639bf82665bea5</details>  |
 | 25w42a | snapshot |  [Link](https://piston-data.mojang.com/v1/objects/d9c6cfd4ba84f5080206259d2563f75796f14470/server.jar)<br><details><summary>SHA1</summary>d9c6cfd4ba84f5080206259d2563f75796f14470</details>  |  [Link](https://piston-data.mojang.com/v1/objects/9315756cde3359f55f4572b49b0e98a352b87e12/server.txt)<br><details><summary>SHA1</summary>9315756cde3359f55f4572b49b0e98a352b87e12</details>  |
 | 25w41a | snapshot |  [Link](https://piston-data.mojang.com/v1/objects/804aefaf397b417479e89144834e277ebde2ce71/server.jar)<br><details><summary>SHA1</summary>804aefaf397b417479e89144834e277ebde2ce71</details>  |  [Link](https://piston-data.mojang.com/v1/objects/79cfcec60aed4cc7ec52679a36de5db740395cd9/server.txt)<br><details><summary>SHA1</summary>79cfcec60aed4cc7ec52679a36de5db740395cd9</details>  |
