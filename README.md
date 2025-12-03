@@ -1,4 +1,4 @@
-# Minecraft Server Links (1.21.10/1.21.11-pre4)
+# Minecraft Server Links (1.21.10/1.21.11-pre5)
 
 [![AutoUpdater](https://github.com/EDToaster/MCVersions/actions/workflows/main.yml/badge.svg)](https://github.com/EDToaster/MCVersions/actions/workflows/main.yml)
 
@@ -6,6 +6,7 @@ Here are all of the available Minecraft server links, as well as the server mapp
 
 | Version | Release Type | Server | Server Mappings |
 |---|---|---|---|
+| 1.21.11-pre5 | snapshot |  [Link](https://piston-data.mojang.com/v1/objects/d62fa16c3bbb5c6809cbd45cd60f3396a9d543a3/server.jar)<br><details><summary>SHA1</summary>d62fa16c3bbb5c6809cbd45cd60f3396a9d543a3</details>  |  [Link](https://piston-data.mojang.com/v1/objects/6750efdbe3ba904eb6eaaeef58f4b632df1c34ea/server.txt)<br><details><summary>SHA1</summary>6750efdbe3ba904eb6eaaeef58f4b632df1c34ea</details>  |
 | 1.21.11-pre4 | snapshot |  [Link](https://piston-data.mojang.com/v1/objects/db1a9f24a4610f2f71e8991c11f70a4b62750c1b/server.jar)<br><details><summary>SHA1</summary>db1a9f24a4610f2f71e8991c11f70a4b62750c1b</details>  |  [Link](https://piston-data.mojang.com/v1/objects/86cbd647f7e74a32c4570469c3c3167d66356178/server.txt)<br><details><summary>SHA1</summary>86cbd647f7e74a32c4570469c3c3167d66356178</details>  |
 | 1.21.11-pre3 | snapshot |  [Link](https://piston-data.mojang.com/v1/objects/51c894709733663dd6e20edd7fa254b904402cab/server.jar)<br><details><summary>SHA1</summary>51c894709733663dd6e20edd7fa254b904402cab</details>  |  [Link](https://piston-data.mojang.com/v1/objects/e46251ebad43bbe17a3e5702931803c6d597fea0/server.txt)<br><details><summary>SHA1</summary>e46251ebad43bbe17a3e5702931803c6d597fea0</details>  |
 | 1.21.11-pre2 | snapshot |  [Link](https://piston-data.mojang.com/v1/objects/7f997b55094aa7754f25173aafef657449f02bec/server.jar)<br><details><summary>SHA1</summary>7f997b55094aa7754f25173aafef657449f02bec</details>  |  [Link](https://piston-data.mojang.com/v1/objects/96bf7fccb05bb77f0daedd29ab9e49127a0d2dbc/server.txt)<br><details><summary>SHA1</summary>96bf7fccb05bb77f0daedd29ab9e49127a0d2dbc</details>  |
