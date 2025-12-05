@@ -1,4 +1,4 @@
-# Minecraft Server Links (1.21.10/1.21.11-rc1)
+# Minecraft Server Links (1.21.10/1.21.11-rc2)
 
 [![AutoUpdater](https://github.com/EDToaster/MCVersions/actions/workflows/main.yml/badge.svg)](https://github.com/EDToaster/MCVersions/actions/workflows/main.yml)
 
@@ -6,6 +6,7 @@ Here are all of the available Minecraft server links, as well as the server mapp
 
 | Version | Release Type | Server | Server Mappings |
 |---|---|---|---|
+| 1.21.11-rc2 | snapshot |  [Link](https://piston-data.mojang.com/v1/objects/7715fc5af319bb0b75d383aefa058f1d263f29de/server.jar)<br><details><summary>SHA1</summary>7715fc5af319bb0b75d383aefa058f1d263f29de</details>  |  [Link](https://piston-data.mojang.com/v1/objects/f33130d2057487eb0446e216e75fce32a01c8cdf/server.txt)<br><details><summary>SHA1</summary>f33130d2057487eb0446e216e75fce32a01c8cdf</details>  |
 | 1.21.11-rc1 | snapshot |  [Link](https://piston-data.mojang.com/v1/objects/7870d0bcde81c7e239f8fc9fc5838db432b555e3/server.jar)<br><details><summary>SHA1</summary>7870d0bcde81c7e239f8fc9fc5838db432b555e3</details>  |  [Link](https://piston-data.mojang.com/v1/objects/f2f7b517dd953d974b5d0419b241bbc2cb505faa/server.txt)<br><details><summary>SHA1</summary>f2f7b517dd953d974b5d0419b241bbc2cb505faa</details>  |
 | 1.21.11-pre5 | snapshot |  [Link](https://piston-data.mojang.com/v1/objects/d62fa16c3bbb5c6809cbd45cd60f3396a9d543a3/server.jar)<br><details><summary>SHA1</summary>d62fa16c3bbb5c6809cbd45cd60f3396a9d543a3</details>  |  [Link](https://piston-data.mojang.com/v1/objects/6750efdbe3ba904eb6eaaeef58f4b632df1c34ea/server.txt)<br><details><summary>SHA1</summary>6750efdbe3ba904eb6eaaeef58f4b632df1c34ea</details>  |
 | 1.21.11-pre4 | snapshot |  [Link](https://piston-data.mojang.com/v1/objects/db1a9f24a4610f2f71e8991c11f70a4b62750c1b/server.jar)<br><details><summary>SHA1</summary>db1a9f24a4610f2f71e8991c11f70a4b62750c1b</details>  |  [Link](https://piston-data.mojang.com/v1/objects/86cbd647f7e74a32c4570469c3c3167d66356178/server.txt)<br><details><summary>SHA1</summary>86cbd647f7e74a32c4570469c3c3167d66356178</details>  |
