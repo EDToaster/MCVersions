@@ -1,4 +1,4 @@
-# Minecraft Server Links (1.21.10/1.21.11-rc2)
+# Minecraft Server Links (1.21.10/1.21.11-rc3)
 
 [![AutoUpdater](https://github.com/EDToaster/MCVersions/actions/workflows/main.yml/badge.svg)](https://github.com/EDToaster/MCVersions/actions/workflows/main.yml)
 
@@ -6,6 +6,7 @@ Here are all of the available Minecraft server links, as well as the server mapp
 
 | Version | Release Type | Server | Server Mappings |
 |---|---|---|---|
+| 1.21.11-rc3 | snapshot |  [Link](https://piston-data.mojang.com/v1/objects/2119f94fb84e2f4c38b5a8a7e5acb45840b3fad6/server.jar)<br><details><summary>SHA1</summary>2119f94fb84e2f4c38b5a8a7e5acb45840b3fad6</details>  |  [Link](https://piston-data.mojang.com/v1/objects/84146da5a247d8b70465841e788ba39a4c82f7cc/server.txt)<br><details><summary>SHA1</summary>84146da5a247d8b70465841e788ba39a4c82f7cc</details>  |
 | 1.21.11-rc2 | snapshot |  [Link](https://piston-data.mojang.com/v1/objects/7715fc5af319bb0b75d383aefa058f1d263f29de/server.jar)<br><details><summary>SHA1</summary>7715fc5af319bb0b75d383aefa058f1d263f29de</details>  |  [Link](https://piston-data.mojang.com/v1/objects/f33130d2057487eb0446e216e75fce32a01c8cdf/server.txt)<br><details><summary>SHA1</summary>f33130d2057487eb0446e216e75fce32a01c8cdf</details>  |
 | 1.21.11-rc1 | snapshot |  [Link](https://piston-data.mojang.com/v1/objects/7870d0bcde81c7e239f8fc9fc5838db432b555e3/server.jar)<br><details><summary>SHA1</summary>7870d0bcde81c7e239f8fc9fc5838db432b555e3</details>  |  [Link](https://piston-data.mojang.com/v1/objects/f2f7b517dd953d974b5d0419b241bbc2cb505faa/server.txt)<br><details><summary>SHA1</summary>f2f7b517dd953d974b5d0419b241bbc2cb505faa</details>  |
 | 1.21.11-pre5 | snapshot |  [Link](https://piston-data.mojang.com/v1/objects/d62fa16c3bbb5c6809cbd45cd60f3396a9d543a3/server.jar)<br><details><summary>SHA1</summary>d62fa16c3bbb5c6809cbd45cd60f3396a9d543a3</details>  |  [Link](https://piston-data.mojang.com/v1/objects/6750efdbe3ba904eb6eaaeef58f4b632df1c34ea/server.txt)<br><details><summary>SHA1</summary>6750efdbe3ba904eb6eaaeef58f4b632df1c34ea</details>  |
@@ -791,8 +792,8 @@ Here are all of the available Minecraft server links, as well as the server mapp
 | 1.5.1 | release |  [Link](https://launcher.mojang.com/v1/objects/d07c71ee2767dabb79fb32dad8162e1b854d5324/server.jar)<br><details><summary>SHA1</summary>d07c71ee2767dabb79fb32dad8162e1b854d5324</details>  |  Missing  |
 | 1.5 | snapshot |  [Link](https://launcher.mojang.com/v1/objects/aedad5159ef56d69c5bcf77ed141f53430af43c3/server.jar)<br><details><summary>SHA1</summary>aedad5159ef56d69c5bcf77ed141f53430af43c3</details>  |  Missing  |
 | 1.4.7 | release |  [Link](https://launcher.mojang.com/v1/objects/2f0ec8efddd2f2c674c77be9ddb370b727dec676/server.jar)<br><details><summary>SHA1</summary>2f0ec8efddd2f2c674c77be9ddb370b727dec676</details>  |  Missing  |
-| 1.4.5 | release |  [Link](https://launcher.mojang.com/v1/objects/c12fd88a8233d2c517dbc8196ba2ae855f4d36ea/server.jar)<br><details><summary>SHA1</summary>c12fd88a8233d2c517dbc8196ba2ae855f4d36ea</details>  |  Missing  |
 | 1.4.6 | release |  [Link](https://launcher.mojang.com/v1/objects/a0aeb5709af5f2c3058c1cf0dc6b110a7a61278c/server.jar)<br><details><summary>SHA1</summary>a0aeb5709af5f2c3058c1cf0dc6b110a7a61278c</details>  |  Missing  |
+| 1.4.5 | release |  [Link](https://launcher.mojang.com/v1/objects/c12fd88a8233d2c517dbc8196ba2ae855f4d36ea/server.jar)<br><details><summary>SHA1</summary>c12fd88a8233d2c517dbc8196ba2ae855f4d36ea</details>  |  Missing  |
 | 1.4.4 | release |  [Link](https://launcher.mojang.com/v1/objects/4215dcadb706508bf9d6d64209a0080b9cee9e71/server.jar)<br><details><summary>SHA1</summary>4215dcadb706508bf9d6d64209a0080b9cee9e71</details>  |  Missing  |
 | 1.4.3 | snapshot |  [Link](https://launcher.mojang.com/v1/objects/9be68adf6e80721975df12f2445fa24617328d18/server.jar)<br><details><summary>SHA1</summary>9be68adf6e80721975df12f2445fa24617328d18</details>  |  Missing  |
 | 1.4.2 | release |  [Link](https://launcher.mojang.com/v1/objects/5be700523a729bb78ef99206fb480a63dcd09825/server.jar)<br><details><summary>SHA1</summary>5be700523a729bb78ef99206fb480a63dcd09825</details>  |  Missing  |
