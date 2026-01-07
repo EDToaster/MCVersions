@@ -1,4 +1,4 @@
-# Minecraft Server Links (1.21.11/26.1-snapshot-1)
+# Minecraft Server Links (1.21.11/26.1-snapshot-2)
 
 [![AutoUpdater](https://github.com/EDToaster/MCVersions/actions/workflows/main.yml/badge.svg)](https://github.com/EDToaster/MCVersions/actions/workflows/main.yml)
 
@@ -6,6 +6,7 @@ Here are all of the available Minecraft server links, as well as the server mapp
 
 | Version | Release Type | Server | Server Mappings |
 |---|---|---|---|
+| 26.1-snapshot-2 | snapshot |  [Link](https://piston-data.mojang.com/v1/objects/165c30e5076a13848404f41692ff1e0126d0a6f3/server.jar)<br><details><summary>SHA1</summary>165c30e5076a13848404f41692ff1e0126d0a6f3</details>  |  Missing  |
 | 26.1-snapshot-1 | snapshot |  [Link](https://piston-data.mojang.com/v1/objects/99786473e61ff6fcf0df4db9e0d6c9012c196116/server.jar)<br><details><summary>SHA1</summary>99786473e61ff6fcf0df4db9e0d6c9012c196116</details>  |  Missing  |
 | 1.21.11 | release |  [Link](https://piston-data.mojang.com/v1/objects/64bb6d763bed0a9f1d632ec347938594144943ed/server.jar)<br><details><summary>SHA1</summary>64bb6d763bed0a9f1d632ec347938594144943ed</details>  |  [Link](https://piston-data.mojang.com/v1/objects/5621e9253f05fd57872bbe7f8ddf5f9a7d525955/server.txt)<br><details><summary>SHA1</summary>5621e9253f05fd57872bbe7f8ddf5f9a7d525955</details>  |
 | 1.21.11-rc3 | snapshot |  [Link](https://piston-data.mojang.com/v1/objects/2119f94fb84e2f4c38b5a8a7e5acb45840b3fad6/server.jar)<br><details><summary>SHA1</summary>2119f94fb84e2f4c38b5a8a7e5acb45840b3fad6</details>  |  [Link](https://piston-data.mojang.com/v1/objects/84146da5a247d8b70465841e788ba39a4c82f7cc/server.txt)<br><details><summary>SHA1</summary>84146da5a247d8b70465841e788ba39a4c82f7cc</details>  |
