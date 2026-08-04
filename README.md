@@ -1,4 +1,4 @@
-# Minecraft Server Links (26.2/26.3-snapshot-6)
+# Minecraft Server Links (26.2/26.3-snapshot-7)
 
 [![AutoUpdater](https://github.com/EDToaster/MCVersions/actions/workflows/main.yml/badge.svg)](https://github.com/EDToaster/MCVersions/actions/workflows/main.yml)
 
@@ -6,6 +6,7 @@ Here are all of the available Minecraft server links, as well as the server mapp
 
 | Version | Release Type | Server | Server Mappings |
 |---|---|---|---|
+| 26.3-snapshot-7 | snapshot |  [Link](https://piston-data.mojang.com/v1/objects/06157fedd67ff4dd6e0e6fa4a9dd0af296f0dd61/server.jar)<br><details><summary>SHA1</summary>06157fedd67ff4dd6e0e6fa4a9dd0af296f0dd61</details>  |  Missing  |
 | 26.3-snapshot-6 | snapshot |  [Link](https://piston-data.mojang.com/v1/objects/14406bf8b96c4126ed01371a62e50703a7481247/server.jar)<br><details><summary>SHA1</summary>14406bf8b96c4126ed01371a62e50703a7481247</details>  |  Missing  |
 | 26.3-snapshot-5 | snapshot |  [Link](https://piston-data.mojang.com/v1/objects/bc881a3fc6e63c490e614ab3bf9c43adc0449ab2/server.jar)<br><details><summary>SHA1</summary>bc881a3fc6e63c490e614ab3bf9c43adc0449ab2</details>  |  Missing  |
 | 26.3-snapshot-4 | snapshot |  [Link](https://piston-data.mojang.com/v1/objects/12ce9ccac727a0ff37ba4aea9d11a73c493d70ca/server.jar)<br><details><summary>SHA1</summary>12ce9ccac727a0ff37ba4aea9d11a73c493d70ca</details>  |  Missing  |
